@@ -1,0 +1,52 @@
+---
+
+title: The Whale-Lines
+
+---
+
+<!doctype html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or metadata.title }} | The Whale-Lines</title>
+    <meta name="description" content="{{ description or metadata.description }}">
+    <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
+    <link rel="icon" type="image/png" href="/images/favicon-circle.png">
+
+  </head>
+
+  <body>
+
+    <header>
+
+      <nav>
+        <div class="nav-box">
+          <ul>
+            <li><a href="/">The Whale-Lines</a></li>
+            <li><a href="/news/">News</a></li>
+            <li><a href="/letters/">Letters from the Editor</a></li>
+          </ul>
+        </div>
+      </nav>
+
+    </header>
+
+    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+
+      {{ content | safe }}
+
+    </main>
+
+    <footer>
+    
+      <p>No rights reserved.</p>
+    
+    </footer>
+
+  </body>
+
+</html>

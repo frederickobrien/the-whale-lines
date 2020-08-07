@@ -1,0 +1,33 @@
+---
+
+layout: base.njk
+
+---
+
+  <head>
+
+  </head>
+
+  <body>
+
+    <main>
+
+    <article class="news-story">
+
+      <h2> {{ title }}</h2>
+
+      <div class="story-copy">
+
+        {{ content | safe }}
+
+      </div>
+
+      <p class="story-date"><date> {{ date.toDateString() }} </date></p>
+
+    </article>
+
+    </main>
+
+  </body>
+
+</html>
