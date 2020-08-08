@@ -1,6 +1,6 @@
 ---
 
-title: USA declares war on war
+title: "BREAKING: USA declares war on war"
 date: 2020-07-13
 
 ---
