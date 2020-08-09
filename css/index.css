@@ -166,12 +166,12 @@ footer p {
 }
 
 .news-story a {
-    color: blue;
+    color: #383433;
     text-decoration: none;
 }
 
 .news-story a:hover {
-    color: darkred;
+    color: gray;
 }
 
 .story-copy {
