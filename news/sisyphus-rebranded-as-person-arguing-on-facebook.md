@@ -5,7 +5,7 @@ date: 2020-07-24
 
 ---
 
-The mythical figure Sisyphus, best known for pushing a big rock up a hill for eternity, has been formally rebranded as a person arguing with insane relatives on Facebook.
+The mythical figure Sisyphus, best known for pushing a big rock up a hill for eternity, has been rebranded as a person arguing with insane relatives on Facebook.
 
 The Greek Ministry of Culture and Sports formally passed the change yesterday afternoon by a majority of seven. It is the first time a mythical character has been formally updated.
 

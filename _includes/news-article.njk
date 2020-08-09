@@ -6,6 +6,29 @@ layout: base.njk
 
   <head>
 
+    <script type="application/ld+json">
+    {
+       "@context": "http://schema.org",
+       "@type": "SatiricalArticle",
+       "url": "https://thewhalelines.com{{ page.url | url }}",
+       "publisher":{
+          "@type":"Organization",
+          "name":"The Whale-Lines",
+          "logo": "https://thewhalelines.com/images/full-logo.png",
+          "url": "https://thewhalelines.com"
+       },
+       "author": {
+       		"@type": "Person",
+            "name": "J. W. Marceau"
+       },
+       "headline": "{{ title }}",
+       "mainEntityOfPage": "https://thewhalelines.com{{ page.url | url }}",
+       "articleBody": "{{ content | striptags }}",
+       "image":"http://ichef-1.bbci.co.uk/news/560/media/images/75306000/jpg/_75306515_line976.jpg",
+       "datePublished":"{{ date }}"
+    }
+    </script>
+
   </head>
 
   <body>

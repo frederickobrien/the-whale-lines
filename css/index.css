@@ -27,27 +27,32 @@ time, mark, audio, video {
 
 h1 {
     font-family: 'Londrina Solid', cursive;
-    font-size: 2em;
+    font-size: 38px;
+    color: #383433;
 }
 
 h2 {
     font-family: 'Londrina Solid', cursive;
-    font-size: 36px;
+    font-size: 34px;
     margin-bottom: 20px;
+    color: #383433;
 }
 
 h3 {
     font-family: 'Londrina Solid', cursive;
-    font-size: 32px;
+    font-size: 30px;
+    color: #383433;
 }
 
 p {
     font-family: 'Special Elite', cursive;
     font-size: 16px;
+    color: #383433;
 }
 
 a {
     color: blue;
+    text-decoration: none; 
 }
 
 a:hover {
@@ -77,33 +82,60 @@ li {
 /* BASE STUFF */
 
 main {
-    padding: 20px 0px;
     margin: 20px;
 }
 
-.articles-container {
-    width: 80%;
-    margin: auto;
+.read-more {
+    text-align: center;
+    text-transform: uppercase;
+    color: lightgray;
+    padding-bottom: 20px;
+}
+
+.read-more a {
+    color: lightgray;
+}
+
+.read-more a:hover {
+    color: gray;
 }
 
 /* NAVIGATION */
 
-.nav-box {
-    width: 100%;
-    margin: 30px;
+.site-logo {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 60%;
+    opacity: 0.2;
+}
+
+.site-logo:hover {
+    opacity: 0.5;
+}
+
+nav {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+nav a {
+    color: lightgray; 
 }
 
 nav ul {
-    list-style-type: none;
-    width: 100%;
-    margin-bottom: 20px;
-    background-color: #333;
-  }
-
-nav li {
-    float: left;
-    padding-right: 30px;
+    display: inline-block;
 }
+
+nav ul li {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 10px 20px;
+}
+
 
 /* FOOTER */
 
@@ -112,22 +144,34 @@ footer {
 }
 
 footer p {
-    font-size: 16px;
-    color: #f5f5f5;
+    font-size: 13px;
+    color: lightgray;
     padding-bottom: 20px;
 }
 
 /* NEWS STORIES */
 
 .news-story {
-    margin: 30px 0px 30px 0px;
-    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    width: 80%;
     background-color: #fffefe;
     background-image: url("/images/paper-texture.png");
     color: #383433;
     padding: 20px 25px 30px 25px;
     box-shadow: 0px 0px 20px -1px rgba(191,181,191,0.96);
-    transform: rotate(1deg);
+    transform: rotate(0deg);
+}
+
+.news-story a {
+    color: blue;
+    text-decoration: none;
+}
+
+.news-story a:hover {
+    color: darkred;
 }
 
 .story-copy {
@@ -149,8 +193,12 @@ footer p {
 
 @media only screen and (min-width: 468px) {
 
-.articles-container {
-     width: 50%;
+.news-story {
+    width: 50%;
+}
+
+.site-logo {
+    width: 380%;
 }
 
 }
@@ -159,8 +207,12 @@ footer p {
 
 @media only screen and (min-width: 1200px) {
 
-.articles-container {
-        width: 25%;
+.news-story {
+    width: 25%;
+}
+
+.site-logo {
+    width: 18%;
 }
 
 }

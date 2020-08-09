@@ -5,7 +5,7 @@ date: 2020-07-29
 
 ---
 
-Millions of Americans will receive ‘Hang in there, Baby’ posters as part of the new stimulus package passed by the US Senate earlier today.
+Millions of Americans will receive ‘Hang in there, Baby’ posters as part of a new stimulus package passed by the US Senate earlier today.
 
 With tens of millions of Americans facing eviction, unemployment, loss of health insurance, and being disappeared in unmarked federal vehicles, the US government is confident these posters will be enough to see the nation through the coming months.
 

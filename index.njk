@@ -27,7 +27,7 @@ title: Home
 
       <article class="news-story">
 
-        <h2>{{ post.data.title }}</h2>
+        <a href=" {{ post.url }} "><h2>{{ post.data.title }}</h2></a>
 
         <div class="story-copy">
 
@@ -35,13 +35,13 @@ title: Home
 
         </div>
 
-        <p class="story-date"><a href=" {{ post.url }} "><date> {{ post.date.toDateString() }} </date></a></p>
+        <p class="story-date"><date> {{ post.date.toDateString() }} </date></p>
 
       </article>
 
   {%- endfor -%}
 
-  <p>More posts can be found in <a href="{{ '/news/' | url }}">the archive</a>.</p>
+  <p class="read-more"><a href="{{ '/news/' | url }}">See all →</a></p>
 
   </div>
 
