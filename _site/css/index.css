@@ -2,6 +2,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Londrina+Solid&family=Rock+Salt&family=Special+Elite&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap');
+
 /* DEFAULT (MOBILE) */
 
 html, body, div, span, applet, object, iframe,
@@ -36,6 +38,7 @@ h2 {
     font-size: 34px;
     margin-bottom: 20px;
     color: #383433;
+    line-height: 1.1;
 }
 
 h3 {
@@ -189,16 +192,40 @@ footer p {
     margin-top: 20px;
 }
 
+/* LETTERS FROM THE EDITOR */
+
+.letter {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 70px;
+    background-color: #f5f0da;
+    background-image: url("https://www.transparenttextures.com/patterns/paper-2.png");
+    box-shadow: 0px 0px 20px -1px rgba(191,181,191,0.96);
+    transform: rotate(1.77deg);
+}
+
+.letter p {
+    font-family: 'La Belle Aurore', cursive;
+    font-size: 30px;
+    padding-bottom: 20px;
+    line-height: 1.2;
+}
+
 /* TABLET */
 
 @media only screen and (min-width: 468px) {
+
+.site-logo {
+    width: 38%;
+}
 
 .news-story {
     width: 50%;
 }
 
-.site-logo {
-    width: 380%;
+.letter {
+    width: 60%;
 }
 
 }
@@ -207,12 +234,16 @@ footer p {
 
 @media only screen and (min-width: 1200px) {
 
+.site-logo {
+    width: 18%;
+}
+
 .news-story {
     width: 25%;
 }
 
-.site-logo {
-    width: 18%;
+.letter {
+    width: 35%;
 }
 
 }
