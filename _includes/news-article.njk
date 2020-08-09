@@ -37,7 +37,8 @@ layout: base.njk
 
     <div class="articles-container">
 
-    <article class="news-story">
+    <article class="news-story" style="transform: rotate({{ angle }}deg);>
+">
 
       <h2> {{ title }}</h2>
 
@@ -47,7 +48,7 @@ layout: base.njk
 
       </div>
 
-      <p class="story-date"><date> {{ date.toDateString() }} </date></p>
+      <p class="story-date"><date>{{ date.toDateString() }}</date></p>
 
     </article>
 

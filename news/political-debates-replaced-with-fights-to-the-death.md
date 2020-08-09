@@ -2,6 +2,7 @@
 
 title: Political debates to be replaced with literal fights to the death
 date: 2020-07-18
+angle: -0.8
 
 ---
 

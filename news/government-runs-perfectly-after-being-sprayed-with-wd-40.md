@@ -2,6 +2,7 @@
 
 title: Government runs perfectly after being sprayed with WD-40
 date: 2020-06-22
+angle: 1.3
 
 ---
 

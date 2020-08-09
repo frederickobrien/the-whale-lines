@@ -38,7 +38,7 @@ title: Home
   {% set latest_posts = collections.news | reverse %}
   {% for post in latest_posts.slice(0,10) %}
 
-      <article class="news-story">
+      <article class="news-story" style="transform: rotate({{ post.data.angle }}deg);">
 
         <h2><a href=" {{ post.url }} ">{{ post.data.title }}</a></h2>
 

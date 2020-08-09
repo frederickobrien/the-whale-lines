@@ -2,6 +2,7 @@
 
 title: Whistleblower treated with dignity and respect
 date: 2020-08-01
+angle: 0.8
 
 ---
 

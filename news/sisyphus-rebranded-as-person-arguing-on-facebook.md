@@ -2,6 +2,7 @@
 
 title: Sisyphus rebranded as person arguing with relatives on Facebook
 date: 2020-07-24
+angle: 0.2
 
 ---
 

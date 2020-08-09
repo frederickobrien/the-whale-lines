@@ -2,6 +2,7 @@
 
 title: Shock, dismay as open letter changes absolutely fucking nothing
 date: 2020-07-08
+angle: 0.6
 
 ---
 

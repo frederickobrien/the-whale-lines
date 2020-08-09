@@ -2,6 +2,7 @@
 
 title: Logan Paul apologises for detonating atom bomb as ‘prank’
 date: 2020-02-07
+image: /images/story-images/logan-paul-prank.jpg
 
 ---
 

@@ -2,6 +2,7 @@
 
 title: Statue of Liberty deported to France
 date: 2020-03-09
+image: /images/story-images/statue-of-liberty-deported.jpg
 
 ---
 

@@ -2,6 +2,7 @@
 
 title: Senate passes Motivational Posters Act to address crisis
 date: 2020-07-29
+angle: -1.2
 
 ---
 

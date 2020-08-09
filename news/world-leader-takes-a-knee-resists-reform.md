@@ -2,6 +2,7 @@
 
 title: World leader takes a knee, resists reform
 date: 2020-06-12
+angle: -0.1
 
 ---
 
