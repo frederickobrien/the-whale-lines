@@ -4,4 +4,4 @@ The Whale-Lines is a fake news paper, publishing fake and nonsense stories when 
 
 ### Future projects/features
 
-- Webmentions (https://webmention.io/)[https://webmention.io/]
+- Webmentions (https://webmention.io/)
