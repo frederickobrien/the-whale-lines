@@ -1,6 +1,6 @@
 ---
 
-title: World leader takes a knee, resists reform
+title: World leader takes a knee, does literally nothing else
 date: 2020-06-12
 angle: -0.1
 
