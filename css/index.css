@@ -30,7 +30,7 @@ time, mark, audio, video {
 h1 {
     font-family: 'Londrina Solid', cursive;
     font-size: 38px;
-    color: #383433;
+    color: rgb(88, 85, 85);
 }
 
 h2 {
@@ -44,7 +44,7 @@ h2 {
 h3 {
     font-family: 'Londrina Solid', cursive;
     font-size: 30px;
-    color: #383433;
+    color: rgb(88, 85, 85);
 }
 
 p {
@@ -172,7 +172,7 @@ footer p {
 }
 
 .news-story a {
-    color: #383433;
+    color: rgb(88, 85, 85);
     text-decoration: none;
 }
 
