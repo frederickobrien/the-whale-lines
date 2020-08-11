@@ -47,6 +47,12 @@ h3 {
     color: rgb(88, 85, 85);
 }
 
+h4 {
+    font-family: 'Londrina Solid', cursive;
+    font-size: 26px;
+    color: rgb(88, 85, 85);
+}
+
 p {
     font-family: 'Special Elite', cursive;
     font-size: 16px;
@@ -54,8 +60,8 @@ p {
 }
 
 a {
-    color: blue;
-    text-decoration: none; 
+    color: rgb(88, 85, 85);
+    text-decoration: none;
 }
 
 a:hover {
@@ -113,7 +119,7 @@ img {
     display: block;
     margin-right: auto;
     margin-left: auto;
-    margin-top: 20px;
+    margin-top: 40px;
     margin-bottom: 20px;
     width: 60%;
     opacity: 0.2;
@@ -212,22 +218,72 @@ footer p {
     margin-top: 20px;
 }
 
+/* NEWS ARCHIVE */
+
+.news-archive-container {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.news-story-archive {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    width: 100%;
+    background-color: #fffefe;
+    background-image: url("/images/paper-texture.png");
+    color: #383433;
+    box-shadow: 0px 0px 20px 0px rgba(191,181,191,0.96);
+}
+
+.news-story-archive:hover {
+    opacity: 0.7;
+}
+
+.archive-content {
+    padding: 20px;
+}
+
+.archive-blurb {
+    text-indent: 10%;
+    line-height: normal;
+    text-align: justify;
+    text-justify: inter-word;
+    padding-top: 10px;
+}
+
+.archive-date {
+    text-align: right;
+    font-size: 14px;
+    font-family: 'Rock Salt', cursive;
+    transform: rotate(-5deg);
+    color: darkred;
+    margin-top: 20px;
+    margin-bottom: -10px;
+}
+
 /* LETTERS FROM THE EDITOR */
 
 .letter {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
-    padding: 70px;
     background-color: #f5f0da;
     background-image: url("https://www.transparenttextures.com/patterns/paper-2.png");
     box-shadow: 0px 0px 20px -1px rgba(191,181,191,0.96);
     transform: rotate(1.77deg);
 }
 
+.letter-text-container {
+    padding: 50px;
+}
+
 .letter p {
     font-family: 'La Belle Aurore', cursive;
-    font-size: 30px;
+    color: rgb(6, 6, 94);
+    font-size: 20px;
     padding-bottom: 20px;
     line-height: 1.2;
 }
@@ -242,6 +298,10 @@ footer p {
 
 .news-story {
     width: 50%;
+}
+
+.news-archive-container {
+    width: 60%;
 }
 
 .letter {
@@ -262,8 +322,16 @@ footer p {
     width: 25%;
 }
 
+.news-archive-container {
+    width: 50%;
+}
+
 .letter {
     width: 35%;
+}
+
+.letter p {
+    font-size: 25px;
 }
 
 }
