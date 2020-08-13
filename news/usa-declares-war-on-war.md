@@ -2,6 +2,7 @@
 
 title: "BREAKING: USA declares war on war"
 date: 2020-07-13
+description: President Donald Trump formally announced the declaration during a rambling, largely improvised speech from the Oval Office earlier today.
 angle: 0.8
 
 ---

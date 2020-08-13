@@ -2,6 +2,7 @@
 
 title: Hare loses to tortoise after spending race arguing with rabbits on Twitter
 date: 2020-07-04
+description: The hare lost in a stunning upset to the tortoise today after wasting all its time and energy arguing with rabbits on the internet.
 angle: -0.9
 
 ---

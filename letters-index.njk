@@ -8,16 +8,18 @@ title: Letters from the Editor
 
 <main>
 
-  <div class="news-archive-container">
+    {%- for post in collections.letters | reverse -%}
 
-    <h2>Archives</h2>
+      <div class="letter" style="transform: rotate({{ post.data.angle }}deg);">
 
-    <ul>
-      {%- for post in collections.letters | reverse -%}
-      <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
-      {%- endfor -%}
-    </ul>
+        <div class="letter-text-container">
 
-  </div>
+          {{ post.templateContent | safe }}
+
+        </div>
+
+      </div>
+
+    {%- endfor -%}
 
 </main>

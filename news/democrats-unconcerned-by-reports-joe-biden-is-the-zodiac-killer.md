@@ -1,7 +1,8 @@
 ---
 
-title: Democrats ‘unconcerned’ by reports that Joe Biden is the Zodiac Killer
+title: Democrats ‘unconcerned’ by reports Joe Biden is the Zodiac Killer
 date: 2020-03-30
+description: The Democratic Party ‘could not be more behind’ presumptive presidential nominee Joe Biden despite pretty compelling evidence that he is guilty of murdering at least seven people.
 
 ---
 

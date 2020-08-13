@@ -2,6 +2,7 @@
 
 title: Star Trek spin-off ‘Keeping Up with the Cardassians’ confirmed
 date: 2020-01-07
+description: A new Star Trek series focusing on the lives of a Cardassian family was announced by CBS today at a celebratory party in Los Angeles.
 
 ---
 

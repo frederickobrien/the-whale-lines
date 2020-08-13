@@ -10,8 +10,6 @@ title: Archive
 
   <div class="news-archive-container">
 
-    <h2>Archive</h2>
-
     {%- for post in collections.news | reverse -%}
 
       <a href="{{ post.url }}"><div class="news-story-archive" style="transform: rotate({{ post.data.angle }}deg);">
@@ -22,7 +20,7 @@ title: Archive
           {{ post.data.title }}
         </h4>
 
-        <p class="archive-blurb">{{ post.data.description }}</p>
+        <p class="archive-blurb">{{ post.data.description }} [...]</p>
 
         <p class="archive-date">
           <date>{{ post.date.toDateString() }}</date>

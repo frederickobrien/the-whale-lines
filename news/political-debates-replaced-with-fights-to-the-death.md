@@ -2,6 +2,7 @@
 
 title: Political debates to be replaced with literal fights to the death
 date: 2020-07-18
+description: Starting next week political debates of all kinds will be replaced by a gladiator-style combat between candidates.
 angle: -0.8
 
 ---

@@ -2,6 +2,7 @@
 
 title: "COVID-19 LATEST: White House prescribes burying head in sand"
 date: 2020-03-21
+description: "The coronavirus could be on its last legs thanks to a new miracle cure unveiled by the US Government today: burying one’s head in the nearest available sand."
 
 ---
 

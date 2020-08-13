@@ -2,6 +2,7 @@
 
 title: Bob Dylan releases two-year, 17,408-verse song
 date: 2020-05-23
+description: Legendary singer-songwriter Bob Dylan released an epic new song last night, its runtime clocking in at two years, three months, seven days, four hours, and two seconds long.
 
 ---
 

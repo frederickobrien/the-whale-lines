@@ -2,6 +2,7 @@
 
 title: Declassified documents reveal Jesus returned, was assassinated by CIA
 date: 2020-05-17
+description: Christianity has found itself in a bit of conundrum this week following the revelation that Jesus Christ returned to Earth in the 1970s but was killed by government agents before he had a chance to speak to anyone.
 
 ---
 

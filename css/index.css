@@ -45,12 +45,14 @@ h3 {
     font-family: 'Londrina Solid', cursive;
     font-size: 30px;
     color: rgb(88, 85, 85);
+    line-height: 1.1;
 }
 
 h4 {
     font-family: 'Londrina Solid', cursive;
     font-size: 26px;
     color: rgb(88, 85, 85);
+    line-height: 1.1;
 }
 
 p {
@@ -140,6 +142,7 @@ nav a {
 
 nav ul {
     display: inline-block;
+    margin-left: 0px; 
 }
 
 nav ul li {
@@ -252,6 +255,7 @@ footer p {
     text-align: justify;
     text-justify: inter-word;
     padding-top: 10px;
+    font-size: 15px;
 }
 
 .archive-date {
@@ -260,7 +264,7 @@ footer p {
     font-family: 'Rock Salt', cursive;
     transform: rotate(-5deg);
     color: darkred;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: -10px;
 }
 
@@ -273,7 +277,6 @@ footer p {
     background-color: #f5f0da;
     background-image: url("https://www.transparenttextures.com/patterns/paper-2.png");
     box-shadow: 0px 0px 20px -1px rgba(191,181,191,0.96);
-    transform: rotate(1.77deg);
 }
 
 .letter-text-container {
@@ -301,7 +304,7 @@ footer p {
 }
 
 .news-archive-container {
-    width: 60%;
+    width: 50%;
 }
 
 .letter {
@@ -323,7 +326,7 @@ footer p {
 }
 
 .news-archive-container {
-    width: 50%;
+    width: 25%;
 }
 
 .letter {

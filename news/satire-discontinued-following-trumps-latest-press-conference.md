@@ -2,6 +2,7 @@
 
 title: Satire discontinued following Trump’s latest press conference
 date: 2020-04-25
+description: The genre of satire has been formally retired after President Donald Trump suggested injecting household cleaning products as a treatment for coronavirus yesterday.
 
 ---
 

@@ -2,6 +2,7 @@
 
 title: Dakota Johnson’s feet land starring role in next Tarantino picture
 date: 2020-03-25
+description: The main character of Quentin Tarantino’s upcoming feature film will be portrayed by Dakota Johnson’s feet.
 
 ---
 

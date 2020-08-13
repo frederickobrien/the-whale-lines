@@ -2,6 +2,7 @@
 
 title: Dow Jones surpasses Christianity as USA’s most popular religion
 date: 2020-04-20
+description: The Dow Jones Industrial Average has overtaken Christianity as the majority religion in the United States of America, according to data released by the Census Bureau today.
 
 ---
 

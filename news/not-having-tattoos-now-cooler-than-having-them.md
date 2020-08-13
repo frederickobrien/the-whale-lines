@@ -2,6 +2,7 @@
 
 title: Not having tattoos now cooler than having them, scientists say
 date: 2020-04-17
+description: Those without tattoos are now officially edgier than those with them, according to an extensive new study published by the Technical University of Munich today.
 
 ---
 

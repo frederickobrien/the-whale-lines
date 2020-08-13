@@ -2,6 +2,7 @@
 
 title: Nick Clegg hired as spokesperson for North Korea Tourism Agency
 date: 2019-11-18
+description: Former deputy prime minister Nick Clegg revealed today that he is leaving his role at Facebook in order to serve as chief spokesperson for the North Korea Tourism Agency.
 
 ---
 

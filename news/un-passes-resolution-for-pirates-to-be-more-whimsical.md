@@ -2,6 +2,7 @@
 
 title: UN passes resolution for pirates to be more whimsical
 date: 2020-03-14
+description: The United Nations has updated the Universal Declaration of Human Rights to mandate that all peoples have a right for their interactions with pirates to be charming and fun.
 
 ---
 

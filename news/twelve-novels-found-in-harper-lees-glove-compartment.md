@@ -2,6 +2,7 @@
 
 title: Twelve unpublished novels found in Harper Lee’s glove compartment
 date: 2019-10-06
+description: Tonja Cart, the Lee estate’s executor, also claims to have unearthed two graphic novels and a Netflix miniseries script.
 
 ---
 

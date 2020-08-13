@@ -2,6 +2,7 @@
 
 title: Aliens abducted by Matt Bellamy
 date: 2020-03-19
+description: In a truly alpha move, rockstar Matt Bellamy stumped skeptics and naysayers alike yesterday by revealing he had abducted two little green aliens from outer space.
 
 ---
 

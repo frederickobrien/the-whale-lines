@@ -2,6 +2,7 @@
 
 title: DC elites successfully moved to Truman Show-like dome
 date: 2020-04-03
+description: The American people are preparing for a bright and beautiful new chapter now that the entirety of Washington DC’s ruling class has been safely contained in a dome much like that featured in the hit motion picture *The Truman Show*.
 
 ---
 

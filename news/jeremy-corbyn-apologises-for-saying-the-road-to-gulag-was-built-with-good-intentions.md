@@ -2,6 +2,7 @@
 
 title: Jeremy Corbyn apologises for saying the road to Gulag was paved with good intentions
 date: 2019-10-17
+description: Labour leader Jeremby Corbyn issued a formal apology today for suggesting Soviet labour camps were well-meaning schemes gone awry.
 
 ---
 

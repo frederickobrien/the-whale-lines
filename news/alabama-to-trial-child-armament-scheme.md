@@ -2,6 +2,7 @@
 
 title: Alabama to trial child armament scheme
 date: 2020-03-24
+description: Schoolchildren in Alabama aged seven and up will be issued sawn-off shotguns and buckshot ammo effective immediately, state officials have announced.
 
 ---
 

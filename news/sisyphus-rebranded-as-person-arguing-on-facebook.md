@@ -2,6 +2,7 @@
 
 title: Sisyphus rebranded as person arguing with relatives on Facebook
 date: 2020-07-24
+description: The mythical figure Sisyphus, best known for pushing a big rock up a hill for eternity, has been rebranded as a person arguing with insane relatives on Facebook.
 angle: 0.2
 
 ---

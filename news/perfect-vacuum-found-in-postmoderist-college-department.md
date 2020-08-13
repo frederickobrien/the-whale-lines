@@ -2,6 +2,7 @@
 
 title: Perfect vacuum discovered in postmodernist college department
 date: 2020-01-14
+description: A whole new realm of astrophysics may have opened up with the discovery of a perfect vacuum in an Oregon university humanities department last week.
 
 ---
 
