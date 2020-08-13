@@ -326,7 +326,15 @@ footer p {
 }
 
 .news-archive-container {
-    width: 25%;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+}
+
+.news-story-archive {
+    width: 330px;
+    margin: 30px;
 }
 
 .letter {
