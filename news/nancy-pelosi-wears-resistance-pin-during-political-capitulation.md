@@ -3,6 +3,7 @@
 title: "Nancy Pelosi delights Democrats by wearing #Resistance pin during political capitulation"
 date: 2020-05-07
 description: "House Speaker Nancy Pelosi struck a hammer blow against the Trump administration last night by wearing a #Resistance pin while voting for the Gut Civil Liberties Act."
+angle: 1.5
 
 ---
 

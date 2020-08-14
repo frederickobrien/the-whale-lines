@@ -3,6 +3,7 @@
 title: Guy who does card tricks at parties finally gets laid
 date: 2020-05-26
 description: That bloke at social gatherings whose sole personality trait appears to be performing card tricks finally pulled some tail this week.
+angle: 1.1
 
 ---
 

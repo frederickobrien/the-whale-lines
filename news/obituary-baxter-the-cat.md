@@ -3,6 +3,7 @@
 title: "Obituary: Baxter"
 date: 2020-04-28
 description: Baxter the cat, 11, passed away last week after getting into an ill-judged fight with a fox.
+angle: -0.5
 
 ---
 

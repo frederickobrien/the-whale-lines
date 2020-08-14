@@ -3,6 +3,7 @@
 title: Journalists foiled by ball on string
 date: 2020-05-28
 description: The development is the latest in a string of journalistic failures, with leaders across the world attending press conferences with balls of yarn, throwing them near any reporters who ask difficult questions.
+angle: -0.5
 
 ---
 

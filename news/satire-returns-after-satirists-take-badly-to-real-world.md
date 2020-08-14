@@ -3,6 +3,7 @@
 title: Satire returns after satirists take badly to real world
 date: 2020-04-29
 description: The genre of satire is back, baby, after millions of writers and comedians recoiled from the prospect of doing honest work for the rest of their lives.
+angle: -1.3
 
 ---
 

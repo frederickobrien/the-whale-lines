@@ -3,6 +3,7 @@
 title: Stewart Lee tells joke
 date: 2019-10-08
 description: The comedy world was left reeling last night after ‘‘‘comedian’’’ Stewart Lee told a joke during one of his standup routines.
+angle: -0.1
 
 ---
 

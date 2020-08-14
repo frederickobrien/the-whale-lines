@@ -3,6 +3,7 @@
 title: Scientists generate electricity from George Orwell spinning in his grave
 date: 2019-11-28
 description: Researchers from the Massachusetts Institute of Technology made history yesterday by successfully harnessing electricity from George Orwell spinning in his grave.
+angle: -0.3
 
 ---
 

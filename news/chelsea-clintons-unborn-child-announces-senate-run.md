@@ -3,6 +3,7 @@
 title: Chelsea Clinton’s unborn child announces Senate run
 date: 2019-09-26
 description: The unborn child of Chelsea Clinton has confirmed its plans to run for the Rhode Island junior senate seat next year.
+angle: 0.9
 
 ---
 

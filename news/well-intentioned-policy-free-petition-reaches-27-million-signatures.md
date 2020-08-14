@@ -3,6 +3,7 @@
 title: Well-intentioned, policy-free petition reaches 27 million signatures
 description: Sensible people across the world are imploring policy makers to act after a petition calling for people to be nicer to each other neared 30 million signatures yesterday.
 date: 2020-01-03
+angle: 0.7
 
 ---
 

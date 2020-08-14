@@ -2,7 +2,8 @@
 
 title: Willy Wonka declares bankruptcy following string of legal defeats
 date: 2020-05-30
-description: Wonka had seemed untouchable, but four horrible children have been relentless in their quest for financial compensation after being subject to highly symbolic traumatic events
+description: Wonka had seemed untouchable, but four horrible children have been relentless in their quest for financial compensation after being subject to highly symbolic traumatic events.
+angle: 1.2
 
 ---
 

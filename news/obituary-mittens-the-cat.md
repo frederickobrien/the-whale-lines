@@ -3,6 +3,7 @@
 title: "Obituary: Mittens"
 date: 2020-04-26
 description: Mittens the cat, 8, passed away last week after a very, very brief battle with a moving truck.
+angle: -0.1
 
 ---
 

@@ -3,6 +3,7 @@
 title: Ironically vain Instagram star gets ironic nose job
 date: 2020-03-27
 description: Tongue-in-cheek Instagram user Brandy Earhart stepped things up a notch today by getting a rhinoplasty.
+angle: 1.4
 
 ---
 

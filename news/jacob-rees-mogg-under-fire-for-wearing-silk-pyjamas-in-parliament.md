@@ -3,6 +3,7 @@
 title: Jacob Rees-Mogg under fire for wearing 18th century silk pyjamas in Parliament
 date: 2019-09-14
 description: The right honourable Jacob Rees-Mogg, Esq. has shrugged off criticism following his appearance in the House of Commons yesterday dressed in blue and white striped pyjamas.
+angle: 0.5
 
 ---
 

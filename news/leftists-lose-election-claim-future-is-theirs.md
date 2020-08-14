@@ -3,6 +3,7 @@
 title: Leftists lose election, claim future is theirs
 date: 2020-03-23
 description: Socialist leaders and activists were bullish after losing an eleventh consecutive national election, claiming a closer look at the demographics proves next time, next time, they would be victorious.
+angle: 1.2
 
 ---
 
