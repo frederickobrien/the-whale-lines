@@ -16,3 +16,5 @@ However, leaked footage of the product having its lights glued on went viral thi
 “I just can’t believe it,” said Reddit user PegMeElon. “The Uberwheel seemed so cool when the press was publishing Tesla press releases uncritically.”
 
 Some have even started to suspect that the accompanying ‘Uberway’ concept is actually just regular cycling paths, with LED lights on them.
+
+For his part Musk remains defiant, spending most of last night publishing increasingly erratic tweets about Marxism, peodophiles, and gender pronouns in Pokemon.
