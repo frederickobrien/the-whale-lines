@@ -9,7 +9,7 @@ angle: 0.4
 
 Elon Musk is under fire after his supposedly ‘revolutionary’ new product was exposed as a centuries-old idea with light blue LED lights glued on.
 
-Global press had lost its collective mind over the so-called ‘Uberwheel’, which Musk claimed would end world hunger and make owners irresistible led to the opposite sex.
+Global press had lost its collective mind over the so-called ‘Uberwheel’, which Musk claimed would end world hunger and make owners irresistible to the opposite sex.
 
 However, leaked footage of the product having its lights glued on went viral this week, with millions realising Musk and his sycophants were totally full of shit.
 
