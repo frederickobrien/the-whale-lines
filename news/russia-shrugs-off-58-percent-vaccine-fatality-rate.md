@@ -13,6 +13,6 @@ Vaccinations began in Moscow yesterday evening and early dispatches suggest the 
 
 “You’ve got to look at the full context,” president Vladimir Putin said in a statement released earlier today. “Yes, there has been some collateral damage, but see also that COVID deaths have plummeted.”
 
-Speaking of plummeting, several clumsy Russian scientists who criticised the speed with which the vaccine was being moved into production have died after falling out of various thirtieth story windows.
+Speaking of plummeting, several clumsy Russian scientists who criticised the speed with which the vaccine was being moved into production have died after falling out of various thirtieth storey windows.
 
 The Russian government has confirmed it intends to continue rolling out the vaccine to the surviving population, thus getting one up on the rest of the world.
