@@ -15,4 +15,4 @@ For years the medical profession had thought gloves were a sensible, utterly unc
 
 Why exactly rubber gloves have become a political issue remains something of mystery, though Facebook engagement rates have been terrific lately. Just terrific. Advertisers are delighted.
 
-Meanwhile, complication from previously routine surgical procedures have skyrocketed in recent weeks, matching 19th century rates with uncanny accuracy.
+Meanwhile, complications from previously routine surgical procedures have skyrocketed in recent weeks, matching 19th century rates with uncanny accuracy.
