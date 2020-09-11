@@ -277,6 +277,7 @@ footer p {
     background-color: #f5f0da;
     background-image: url("https://www.transparenttextures.com/patterns/paper-2.png");
     box-shadow: 0px 0px 20px -1px rgba(191,181,191,0.96);
+    padding-bottom: 20px;
 }
 
 .letter-text-container {
