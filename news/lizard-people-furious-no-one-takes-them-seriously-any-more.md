@@ -1,7 +1,7 @@
 ---
 
 title: Lizard people furious no-one takes them seriously any more
-date: 2020-14-09
+date: 2020-09-14
 description: Lizard people of the world are in the midst of an identity crisis after years of whack job conspiracy theories have turned them into figures of fun.
 angle: 1.4
 
