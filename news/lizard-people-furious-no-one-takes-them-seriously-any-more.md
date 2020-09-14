@@ -7,7 +7,7 @@ angle: 1.4
 
 ---
 
-The lizard people of the world are in the midst of an identity crisis after years of whack job conspiracy theories have turned them into figures of fun.
+Lizard people of the world are in the midst of an identity crisis after years of whack job conspiracy theories have turned them into figures of fun.
 
 Once feared for their conniving, disruptive, often downright nefarious tendencies, our reptilian would-be overlords are no longer taken seriously in villainous circles. If anything their involvement is viewed as a hindrance.
 
