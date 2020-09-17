@@ -4,6 +4,8 @@ title: "EXCLUSIVE: Q of the Q Continuum behind QAnon"
 date: 2020-09-16
 description: In a classic case of mischief making, it turns out the Q behind QAnon is none other than Q of the Q Continuum, The Whale-Lines can reveal.
 angle: -0.3
+image: /images/story-images/q-of-q-continuum-behind-qanon.png
+imageAlt: Q of the Q Continuum playing trumpet with a Mexican band
 
 ---
 
