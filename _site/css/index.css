@@ -191,6 +191,8 @@ footer p {
 
 .story-image {
     filter: grayscale(100%);
+    margin-bottom: 20px;
+    opacity: 0.9;
 }
 
 .story-copy {
@@ -277,6 +279,7 @@ footer p {
     background-color: #f5f0da;
     background-image: url("https://www.transparenttextures.com/patterns/paper-2.png");
     box-shadow: 0px 0px 20px -1px rgba(191,181,191,0.96);
+    margin-bottom: 50px;
 }
 
 .letter-text-container {
@@ -286,7 +289,7 @@ footer p {
 .letter p {
     font-family: 'La Belle Aurore', cursive;
     color: rgb(6, 6, 94);
-    font-size: 20px;
+    font-size: 18px;
     padding-bottom: 20px;
     line-height: 1.2;
 }
