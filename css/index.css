@@ -67,7 +67,7 @@ a {
 }
 
 a:hover {
-    color: gray;
+    color: lightgray;
 }
 
 hr {
@@ -103,16 +103,16 @@ img {
 .read-more {
     text-align: center;
     text-transform: uppercase;
-    color: lightgray;
+    color: gray;
     padding-bottom: 20px;
 }
 
 .read-more a {
-    color: lightgray;
+    color: gray;
 }
 
 .read-more a:hover {
-    color: gray;
+    color: lightgray;
 }
 
 /* NAVIGATION */
@@ -124,11 +124,11 @@ img {
     margin-top: 40px;
     margin-bottom: 20px;
     width: 60%;
-    opacity: 0.2;
+    opacity: 0.5;
 }
 
 .site-logo:hover {
-    opacity: 0.5;
+    opacity: 0.2;
 }
 
 nav {
@@ -137,7 +137,7 @@ nav {
 }
 
 nav a {
-    color: lightgray; 
+    color: gray; 
 }
 
 nav ul {
@@ -161,7 +161,7 @@ footer {
 
 footer p {
     font-size: 13px;
-    color: lightgray;
+    color: gray;
     padding-bottom: 20px;
 }
 
