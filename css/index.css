@@ -184,7 +184,8 @@ footer p {
     background-image: url("/images/paper-texture.png");
     color: #383433;
     padding: 20px 25px 30px 25px;
-    box-shadow: 0px 0px 20px 0px rgba(150,150,150,0.95);
+    box-shadow: 0px 0px 20px 0px rgba(140,140,140,0.95);
+    border-radius: 2px;
 }
 
 .news-story a {
@@ -247,7 +248,7 @@ footer p {
     background-color: #fffefe;
     background-image: url("/images/paper-texture.png");
     color: #383433;
-    box-shadow: 0px 0px 20px 0px rgba(191,181,191,0.96);
+    box-shadow: 0px 0px 20px 0px rgba(140,140,140,0.95);
 }
 
 .news-story-archive:hover {
@@ -285,7 +286,7 @@ footer p {
     margin-right: auto;
     background-color: #f5f0da;
     background-image: url("https://www.transparenttextures.com/patterns/paper-2.png");
-    box-shadow: 0px 0px 20px -1px rgba(191,181,191,0.96);
+    box-shadow: 0px 0px 20px 0px rgba(140,140,140,0.95);
     margin-bottom: 50px;
 }
 
