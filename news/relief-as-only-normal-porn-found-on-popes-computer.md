@@ -4,6 +4,8 @@ title: Relief as only normal porn found on pope’s hacked computer
 date: 2020-04-15
 description: The Catholic Church breathed a collective sigh of relief today after it was revealed Pope Francis’ hacked computer only contained run of the mill smut.
 angle: -0.8
+image: /images/story-images/pope-francis.png
+imageAlt: Pope Francis
 
 ---
 

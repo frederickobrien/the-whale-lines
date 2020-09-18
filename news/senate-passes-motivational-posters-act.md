@@ -4,6 +4,8 @@ title: Senate passes Motivational Posters Act to address crisis
 date: 2020-07-29
 description: Millions of Americans will receive ‘Hang in there, Baby’ posters as part of a new stimulus package passed by the US Senate earlier today.
 angle: -1.2
+image: /images/story-images/hang-in-there-baby.png
+imageAlt: "'Hang in There, Baby' poster"
 
 ---
 
