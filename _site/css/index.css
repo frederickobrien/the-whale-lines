@@ -4,6 +4,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
 /* DEFAULT (MOBILE) */
 
 html, body, div, span, applet, object, iframe,
@@ -102,16 +104,15 @@ img {
 
 .read-more {
     text-align: center;
+    font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-    color: gray;
+    color: rgb(75, 75, 75);
     padding-bottom: 20px;
-    font-weight: 600;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .read-more a {
-    color: gray;
+    color: rgb(75, 75, 75);
 }
 
 .read-more a:hover {
@@ -127,7 +128,7 @@ img {
     margin-top: 40px;
     margin-bottom: 20px;
     width: 60%;
-    opacity: 0.6;
+    opacity: 0.70;
 }
 
 .site-logo:hover {
@@ -140,7 +141,7 @@ nav {
 }
 
 nav a {
-    color: gray; 
+    color: rgb(75, 75, 75); 
 }
 
 nav ul {
@@ -153,9 +154,8 @@ nav ul li {
     display: block;
     text-align: center;
     padding: 10px 20px;
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-    font-weight: 600;
-    font-size: 12px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
 }
 
 
@@ -167,9 +167,9 @@ footer {
 
 footer p {
     font-size: 13px;
-    color: gray;
+    color: rgb(75, 75, 75);
     padding-bottom: 20px;
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-family: 'Oswald', sans-serif;
 }
 
 /* NEWS STORIES */
