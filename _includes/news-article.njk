@@ -4,64 +4,83 @@ layout: base.njk
 
 ---
 
-  <head>
+<head>
 
-    <script type="application/ld+json">
+  <script type="application/ld+json">
     {
-       "@context": "http://schema.org",
-       "@type": "SatiricalArticle",
-       "url": "https://thewhalelines.com{{ page.url | url }}",
-       "publisher":{
-          "@type":"Organization",
-          "name":"The Whale-Lines",
-          "logo": "https://thewhalelines.com/images/full-logo.png",
-          "url": "https://thewhalelines.com"
-       },
-       "author": {
-       		"@type": "Person",
-            "name": "J. W. Marceau"
-       },
-       "headline": "{{ title }}",
-       "mainEntityOfPage": "https://thewhalelines.com{{ page.url | url }}",
-       "articleBody": "{{ content | striptags }}",
-       "image":"http://ichef-1.bbci.co.uk/news/560/media/images/75306000/jpg/_75306515_line976.jpg",
-       "datePublished":"{{ date }}"
+      "@context": "http://schema.org",
+      "@type": "SatiricalArticle",
+      "url": "https://thewhalelines.com{{ page.url | url }}",
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Whale-Lines",
+        "logo": "https://thewhalelines.com/images/full-logo.png",
+        "url": "https://thewhalelines.com"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "J. W. Marceau"
+      },
+      "headline": "{{ title }}",
+      "mainEntityOfPage": "https://thewhalelines.com{{ page.url | url }}",
+      "articleBody": "{{ content | striptags }}",
+      "image": "http://ichef-1.bbci.co.uk/news/560/media/images/75306000/jpg/_75306515_line976.jpg",
+      "datePublished": "{{ date }}"
     }
-    </script>
+  </script>
 
-  </head>
+</head>
 
-  <body>
+<body>
 
-    <main>
+  <main>
 
     <div class="articles-container">
 
-    <article class="news-story" style="transform: rotate({{ angle }}deg);>
+      <article class="news-story" style="transform: rotate({{ angle }}deg);>
 ">
 
-      <h2> {{ title }}</h2>
+        <h2>
+          {{ title }}</h2>
 
-      {% if image %}
+        {% if image %}
 
-      <img class="story-image" src="{{ image }}" alt="{{ imageAlt }}">
+          <img class="story-image" src="{{ image }}" alt="{{ imageAlt }}">
 
-      {% endif %}
+        {% endif %}
 
-      <div class="story-copy">
+        <div class="story-copy">
 
-        {{ content | safe }}
+          {{ content | safe }}
 
-      </div>
+        </div>
 
-      <p class="story-date"><date>{{ date.toDateString() }}</date></p>
+        <p class="story-date">
+          <date>{{ date.toDateString() }}</date>
+        </p>
 
-    </article>
+      </article>
 
     </div>
 
-    </main>
+    <div class="more-posts">
+    <ul>
+      {%- set nextPost = collections.news | getNextCollectionItem(page) %}
+      {%- if nextPost %}
+        <li><strong>Next:</strong> <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a>
+        </li>
+      {% endif %}
+      {%- set previousPost = collections.news | getPreviousCollectionItem(page) %}
+      {%- if previousPost %}
+        <li><strong>Previous:</strong> <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a>
+        </li>
+      {% endif %}
+    </ul>
 
-  </body>
+    </div>
+
+  </main>
+
+</body>
 
 </html>

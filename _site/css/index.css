@@ -25,7 +25,6 @@ time, mark, audio, video {
   padding: 0;
   border: 0;
   font-size: 100%;
-  font: inherit;
   vertical-align: baseline;
 }
 
@@ -88,7 +87,7 @@ ul {
  }
 
 li {
-    font-family: 'Special Elite', cursive;
+    font-family: 'Oswald', sans-serif;
     font-size: 16px;
 }
 
@@ -168,7 +167,7 @@ footer {
 footer p {
     font-size: 13px;
     color: rgb(75, 75, 75);
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     font-family: 'Oswald', sans-serif;
 }
 
@@ -184,7 +183,8 @@ footer p {
     background-image: url("/images/paper-texture.png");
     color: #383433;
     padding: 20px 25px 30px 25px;
-    box-shadow: 0px 0px 20px 0px rgba(191,181,191,0.96);
+    box-shadow: 0px 0px 20px 0px rgba(160, 160, 160, 0.95);
+    border-radius: 2px;
 }
 
 .news-story a {
@@ -230,6 +230,22 @@ footer p {
     margin-top: 20px;
 }
 
+.more-posts {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+
+.more-posts ul {
+    list-style: none;
+    margin-left: 0px;
+}
+
+.more-posts a {
+    text-decoration: underline;
+}
+
 /* NEWS ARCHIVE */
 
 .news-archive-container {
@@ -247,7 +263,7 @@ footer p {
     background-color: #fffefe;
     background-image: url("/images/paper-texture.png");
     color: #383433;
-    box-shadow: 0px 0px 20px 0px rgba(191,181,191,0.96);
+    box-shadow: 0px 0px 20px 0px rgba(160, 160, 160, 0.95);
 }
 
 .news-story-archive:hover {
@@ -285,7 +301,7 @@ footer p {
     margin-right: auto;
     background-color: #f5f0da;
     background-image: url("https://www.transparenttextures.com/patterns/paper-2.png");
-    box-shadow: 0px 0px 20px -1px rgba(191,181,191,0.96);
+    box-shadow: 0px 0px 20px 0px rgba(160, 160, 160, 0.95);
     margin-bottom: 50px;
 }
 
@@ -321,6 +337,10 @@ footer p {
     width: 60%;
 }
 
+.more-posts {
+    width: 50%;
+}
+
 }
 
 /* DESKTOP */
@@ -332,6 +352,10 @@ footer p {
 }
 
 .news-story {
+    width: 25%;
+}
+
+.more-posts {
     width: 25%;
 }
 
@@ -348,7 +372,7 @@ footer p {
 }
 
 .letter {
-    width: 35%;
+    width: 45%;
 }
 
 .letter p {

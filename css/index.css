@@ -25,7 +25,6 @@ time, mark, audio, video {
   padding: 0;
   border: 0;
   font-size: 100%;
-  font: inherit;
   vertical-align: baseline;
 }
 
@@ -88,7 +87,7 @@ ul {
  }
 
 li {
-    font-family: 'Special Elite', cursive;
+    font-family: 'Oswald', sans-serif;
     font-size: 16px;
 }
 
@@ -168,7 +167,7 @@ footer {
 footer p {
     font-size: 13px;
     color: rgb(75, 75, 75);
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     font-family: 'Oswald', sans-serif;
 }
 
@@ -229,6 +228,22 @@ footer p {
     transform: rotate(-5deg);
     color: darkred;
     margin-top: 20px;
+}
+
+.more-posts {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+
+.more-posts ul {
+    list-style: none;
+    margin-left: 0px;
+}
+
+.more-posts a {
+    text-decoration: underline;
 }
 
 /* NEWS ARCHIVE */
@@ -322,6 +337,10 @@ footer p {
     width: 60%;
 }
 
+.more-posts {
+    width: 50%;
+}
+
 }
 
 /* DESKTOP */
@@ -333,6 +352,10 @@ footer p {
 }
 
 .news-story {
+    width: 25%;
+}
+
+.more-posts {
     width: 25%;
 }
 
@@ -349,7 +372,7 @@ footer p {
 }
 
 .letter {
-    width: 35%;
+    width: 45%;
 }
 
 .letter p {
