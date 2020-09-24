@@ -15,6 +15,6 @@ The award is the culmination of weeks of fanfare and admiration from the America
 
 Those incriminated by the leaks will be brought to justice, their contempt for rule of law and America’s founding ideals treated as the stains on national history they are.
 
-For her part Jenkins is looking forward to a lifetime to goodwill and peace of mind. She’ll never have to buy another drink that’s for sure.
+For her part Jenkins is looking forward to a lifetime of goodwill and peace of mind. She’ll never have to buy another drink that’s for sure.
 
 “I was just doing my civic duty,” a bashful Jenkins told The Whale-Lines last night. “If we can’t hold ourselves accountable what hope does this country really have?”
