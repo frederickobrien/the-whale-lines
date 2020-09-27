@@ -65,18 +65,16 @@ layout: base.njk
     </div>
 
     <div class="more-posts">
-    <ul>
+    <p>
       {%- set nextPost = collections.news | getNextCollectionItem(page) %}
       {%- if nextPost %}
-        <li><strong>Next:</strong> <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a>
-        </li>
+        <strong>↼ <a href="{{ nextPost.url | url }}">Next</a> | </strong>
       {% endif %}
       {%- set previousPost = collections.news | getPreviousCollectionItem(page) %}
       {%- if previousPost %}
-        <li><strong>Previous:</strong> <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a>
-        </li>
+        <strong><a href="{{ previousPost.url | url }}">Previous</a> ⇁</strong>
       {% endif %}
-    </ul>
+    </p>
 
     </div>
 
