@@ -171,29 +171,6 @@ footer p {
     font-family: 'Oswald', sans-serif;
 }
 
-/* 404 */
-
-.four-oh-four-message {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-.four-oh-four-message h2 {
-    text-align: center;
-    font-family: 'Oswald', sans-serif;
-}
-
-.four-oh-four-message p {
-    text-align: center;
-    font-family: 'Oswald', sans-serif;
-}
-
-.four-oh-four-message a {
-    text-decoration: underline;
-}
-
 /* NEWS STORIES */
 
 .news-story {
@@ -339,6 +316,29 @@ footer p {
     font-size: 18px;
     padding-bottom: 20px;
     line-height: 1.2;
+}
+
+/* 404 */
+
+.four-oh-four-message {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.four-oh-four-message h2 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+.four-oh-four-message p {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+.four-oh-four-message a {
+    text-decoration: underline;
 }
 
 /* TABLET */
