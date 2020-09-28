@@ -9,7 +9,7 @@ angle: 1.3
 
 A humble Illinois carpenter made history yesterday by becoming the first human this millennia to genuinely learn from a mistake.
 
-Leonard Hurst, 24, had been ostracised by friends and family after destroying the facade of a local family business in a fit of drunken rage. After reflecting on his actions he made a genuine effort to work on himself and avoid same mistake repeating itself in the future.
+Leonard Hurst, 24, had been ostracised by friends and family after destroying the facade of a local family business in a fit of drunken rage. After reflecting on his actions he made a genuine effort to work on himself and avoid the same mistake repeating itself in the future.
 
 Hurst said: “I looked at what happened, what I did, the context, and whatever else went on there was no escaping the fact there were things I could and should have done better. From now on, I will be better.”
 
