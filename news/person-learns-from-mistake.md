@@ -15,4 +15,4 @@ Hurst said: “I looked at what happened, what I did, the context, and whatever 
 
 Hurst’s friends and family are reportedly very proud of him, as they know people have an infuriating knack of talking about learning from their mistakes before going back to doing exactly what they were doing before.
 
-It had been more than 50 years since a person last learned from a mistake. In 1954 one Ashley Barnes realised buying unessential items she didn’t have the money for did more harm than good and adjusted her spending accordingly.
+It had been more than 50 years since a person last learned from a mistake. In 1954 one Ashley Barnes realised buying unessential items she didn’t have money for did more harm than good and adjusted her spending accordingly.
