@@ -41,7 +41,7 @@ layout: base.njk
       "image": "https://thewhalelines.com/images/brand-images/site-featured.jpg",
       "datePublished": "{{ date }}"
     }
-</script>
+  </script>
 
 </head>
 
@@ -51,8 +51,7 @@ layout: base.njk
 
     <div class="articles-container">
 
-      <article class="news-story" style="transform: rotate({{ angle }}deg);>
-">
+      <article class="news-story" style="transform: rotate({{ angle }}deg);">
 
         <h2>{{ title }}</h2>
 
@@ -77,16 +76,17 @@ layout: base.njk
     </div>
 
     <div class="more-posts">
-    <p>
-      {%- set nextPost = collections.news | getNextCollectionItem(page) %}
-      {%- if nextPost %}
-        <strong>↼ <a href="{{ nextPost.url | url }}">Next</a> | </strong>
-      {% endif %}
-      {%- set previousPost = collections.news | getPreviousCollectionItem(page) %}
-      {%- if previousPost %}
-        <strong><a href="{{ previousPost.url | url }}">Previous</a> ⇁</strong>
-      {% endif %}
-    </p>
+      <p>
+        {%- set nextPost = collections.news | getNextCollectionItem(page) %}
+        {%- if nextPost %}
+          <strong>↼ <a href="{{ nextPost.url | url }}">Next</a> | </strong>
+        {% endif %}
+        {%- set previousPost = collections.news | getPreviousCollectionItem(page) %}
+        {%- if previousPost %}
+          <strong>
+            <a href="{{ previousPost.url | url }}">Previous</a> ⇁</strong>
+        {% endif %}
+      </p>
 
     </div>
 
