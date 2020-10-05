@@ -6,6 +6,7 @@ description: YouTube personality Logan Paul has apologised for a ‘prank’ vid
 angle: 1
 image: /images/story-images/logan-paul-atom-bomb-prank.png
 imageAlt: Mushroom cloud from a nuclear explosion
+imageCaption: A mushroom cloud forms over New York
 
 ---
 

@@ -6,6 +6,7 @@ description: Lizard people of the world are in the midst of an identity crisis a
 angle: 1.4
 image: /images/story-images/lizard-people-furious.png
 imageAlt: A lizard person sitting in a boardroom chair
+imageCaption: Arllok Shivr at a lizard people meeting
 
 ---
 

@@ -6,6 +6,7 @@ description: In a truly alpha move, rockstar Matt Bellamy stumped skeptics and n
 angle: 0.3
 image: /images/story-images/aliens-abducted-by-matt-bellamy.png
 imageAlt: Matt Bellamy and Dom Howard from the band Muse
+imageCaption: Matt Bellamy and Dom Howard during their broadcast
 
 ---
 

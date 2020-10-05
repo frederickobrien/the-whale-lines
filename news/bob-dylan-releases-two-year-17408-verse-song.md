@@ -6,6 +6,7 @@ description: Legendary singer-songwriter Bob Dylan released an epic new song las
 angle: -0.3
 image: /images/story-images/bob-dylan-releases-two-year-song.png
 imageAlt: Bob Dylan performing live
+imageCaption: Bob Dylan performing on the Never Ever Ever Ending Tour
 
 ---
 

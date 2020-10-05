@@ -30,13 +30,13 @@ time, mark, audio, video {
 
 h1 {
     font-family: 'Londrina Solid', cursive;
-    font-size: 38px;
+    font-size: 2.3em;
     color: rgb(88, 85, 85);
 }
 
 h2 {
     font-family: 'Londrina Solid', cursive;
-    font-size: 34px;
+    font-size: 2.1em;
     margin-bottom: 20px;
     color: rgb(88, 85, 85);
     line-height: 1;
@@ -44,21 +44,21 @@ h2 {
 
 h3 {
     font-family: 'Londrina Solid', cursive;
-    font-size: 30px;
+    font-size: 1.9em;
     color: rgb(88, 85, 85);
-    line-height: 1.1;
+    line-height: 1;
 }
 
 h4 {
     font-family: 'Londrina Solid', cursive;
-    font-size: 26px;
+    font-size: 1.6em;
     color: rgb(88, 85, 85);
     line-height: 1.1;
 }
 
 p {
     font-family: 'Special Elite', cursive;
-    font-size: 16px;
+    font-size: 1em;
     color: #383433;
 }
 
@@ -181,9 +181,17 @@ footer p {
 
 .story-image {
     filter: grayscale(100%);
-    margin-bottom: 20px;
     opacity: 0.9;
     border-radius: 2px;
+}
+
+figcaption {
+    color: #383433;
+    font-size: 0.8em;
+    text-align: right;
+    font-family: 'Londrina Solid', cursive;
+    text-transform: uppercase;
+    margin-bottom: 20px;
 }
 
 .story-copy {

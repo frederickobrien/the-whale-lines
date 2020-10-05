@@ -30,13 +30,13 @@ time, mark, audio, video {
 
 h1 {
     font-family: 'Londrina Solid', cursive;
-    font-size: 38px;
+    font-size: 2.3em;
     color: rgb(88, 85, 85);
 }
 
 h2 {
     font-family: 'Londrina Solid', cursive;
-    font-size: 34px;
+    font-size: 2.1em;
     margin-bottom: 20px;
     color: rgb(88, 85, 85);
     line-height: 1;
@@ -44,21 +44,21 @@ h2 {
 
 h3 {
     font-family: 'Londrina Solid', cursive;
-    font-size: 30px;
+    font-size: 1.9em;
     color: rgb(88, 85, 85);
-    line-height: 1.1;
+    line-height: 1;
 }
 
 h4 {
     font-family: 'Londrina Solid', cursive;
-    font-size: 26px;
+    font-size: 1.6em;
     color: rgb(88, 85, 85);
     line-height: 1.1;
 }
 
 p {
     font-family: 'Special Elite', cursive;
-    font-size: 16px;
+    font-size: 1em;
     color: #383433;
 }
 
@@ -99,23 +99,6 @@ main {
 
 img {
     width: 100%;
-}
-
-.read-more {
-    text-align: center;
-    font-family: 'Oswald', sans-serif;
-    text-transform: uppercase;
-    color: rgb(75, 75, 75);
-    padding-bottom: 20px;
-    font-size: 14px;
-}
-
-.read-more a {
-    color: rgb(75, 75, 75);
-}
-
-.read-more a:hover {
-    color: lightgray;
 }
 
 /* NAVIGATION */
@@ -198,9 +181,17 @@ footer p {
 
 .story-image {
     filter: grayscale(100%);
-    margin-bottom: 20px;
     opacity: 0.9;
     border-radius: 2px;
+}
+
+figcaption {
+    color: #383433;
+    font-size: 0.8em;
+    text-align: right;
+    font-family: 'Londrina Solid', cursive;
+    text-transform: uppercase;
+    margin-bottom: 20px;
 }
 
 .story-copy {
@@ -316,6 +307,29 @@ footer p {
     font-size: 18px;
     padding-bottom: 20px;
     line-height: 1.2;
+}
+
+/* 404 */
+
+.four-oh-four-message {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.four-oh-four-message h2 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+.four-oh-four-message p {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+.four-oh-four-message a {
+    text-decoration: underline;
 }
 
 /* TABLET */

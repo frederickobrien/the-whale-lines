@@ -6,6 +6,7 @@ description: Legendary rock brothers Liam and Noel Gallagher succumbed to pressu
 angle: 1.5
 image: /images/story-images/liam-gallagher.png
 imageAlt: Liam Gallagher with his front teeth knocked out
+imageCaption: Liam Gallagher mad fer it
 
 ---
 

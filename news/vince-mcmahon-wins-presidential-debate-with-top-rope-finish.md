@@ -4,8 +4,9 @@ title: Vince McMahon wins presidential debate with devastating top rope finish
 date: 2020-09-29
 description: Registered voters say Vince McMahon was the clear winner in 2020’s first presidential debate, with the WWE chairman and CEO putting in an imperious display against Donald Trump and Joe Biden.
 angle: 0.1
-image: https://thewhalelines.neocities.org/story-images/vince-mcmahon-wins-first-presidential-debate.png
+image: /images/story-images/vince-mcmahon-flying-elbow-drop.png
 imageAlt: Vince McMahon performing a flying elbow drop against vice president Joe Biden
+imageCaption: Vince McMahon mid flight
 
 ---
 
