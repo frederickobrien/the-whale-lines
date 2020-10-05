@@ -6,6 +6,7 @@ description: Conservative party donor and housing secretary Winston Hutherforth 
 angle: -0.9
 image: /images/story-images/unaffordable-housing.png
 imageAlt: The front of a mansion
+imageCaption: Party donors called the plans 'a triumph'
 
 ---
 

@@ -6,6 +6,7 @@ description: Millions of Americans will receive ‘Hang in there, Baby’ poster
 angle: -1.2
 image: /images/story-images/hang-in-there-baby.png
 imageAlt: "'Hang in There, Baby' poster"
+imageCaption: Preview of planned posters
 
 ---
 

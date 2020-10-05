@@ -6,6 +6,7 @@ description: The Trump administration continued its crackdown on undocumented im
 angle: -0.9
 image: /images/story-images/statue-of-liberty-deported.png
 imageAlt: The Statue of Liberty
+imageCaption: The statue in a detention centre
 
 ---
 

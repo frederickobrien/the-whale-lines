@@ -57,7 +57,10 @@ description: Real fake news.
 
         {% if post.data.image %}
 
-          <img class="story-image" src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}">
+          <figure>
+            <img class="story-image" src="{{ post.data.image }}" alt="{{ psot.data.imageAlt }}">
+            <figcaption>{{ post.data.imageCaption }}</figcaption>
+          </figure>
 
         {% endif %}
 

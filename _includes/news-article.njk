@@ -57,7 +57,10 @@ layout: base.njk
 
         {% if image %}
 
-          <img class="story-image" src="{{ image }}" alt="{{ imageAlt }}">
+          <figure>
+            <img class="story-image" src="{{ image }}" alt="{{ imageAlt }}">
+            <figcaption>{{ imageCaption }}</figcaption>
+          </figure>
 
         {% endif %}
 

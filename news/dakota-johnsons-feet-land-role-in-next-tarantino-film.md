@@ -6,6 +6,7 @@ description: The main character of Quentin Tarantino’s upcoming feature film w
 angle: 0.7
 image: /images/story-images/dakota-johnson-feet.png
 imageAlt: Dakota Johnson's feet
+imageCaption: Dakota Johnson's feet dazzle on the red carpet
 
 ---
 
