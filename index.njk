@@ -72,6 +72,11 @@ description: Real fake news.
 
         <p class="story-date"><date>{{ post.date.toDateString() }}</date></p>
 
+        <a class="twitter-share-button" target="_blank"
+  href="https://twitter.com/intent/tweet?text={{post.data.title}}&url=https://thewhalelines.com{{post.url}}">
+          <img class="twitter-icon" alt="Black Twitter icon" src="/images/brand-images/twitter-icon.png">
+        </a>
+
       </article>
 
   {%- endfor -%}
