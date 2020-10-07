@@ -7,7 +7,7 @@ angle: -0.3
 image: /images/story-images/q-of-q-continuum-behind-qanon.png
 imageAlt: Q of the Q Continuum enjoying a drink
 imageCaption: Q lapping it up
-imageSocial: /images/social-images/q-of-q-continuum-behind-qanon.png
+imageSocial: /images/social-images/q-continuum-behind-qanon.png
 
 ---
 
