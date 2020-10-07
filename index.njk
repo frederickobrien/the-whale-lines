@@ -6,12 +6,11 @@ description: Real fake news.
 
 ---
 
-
 <!doctype html>
 
 <html>
 
-<head>
+  <head>
 
     <title>The Whale-Lines</title>
     <meta name="description" content="A fake news paper.">
@@ -30,65 +29,68 @@ description: Real fake news.
     <meta name="twitter:card" content="summary_large_image">
 
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "name": "The Whale-Lines",
-      "description": "A fake news paper.",
-      "url": "https://thewhalelines.com",
-      "logo": "https://thewhalelines.com/images/brand-images/full-logo.png/"
-    }
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "The Whale-Lines",
+        "description": "A fake news paper.",
+        "url": "https://thewhalelines.com",
+        "logo": "https://thewhalelines.com/images/brand-images/full-logo.png/"
+      }
     </script>
 
-</head>
+  </head>
 
-<body>
+  <body>
 
-<main>
+    <main>
 
-  <div class="articles-container">
+      <div class="articles-container">
 
-  {% set latest_posts = collections.news | reverse %}
-  {% for post in latest_posts.slice(0,10) %}
+        {% set latest_posts = collections.news | reverse %}
+        {% for post in latest_posts.slice(0, 10) %}
 
-      <article class="news-story" style="transform: rotate({{ post.data.angle }}deg);">
+          <article class="news-story" style="transform: rotate({{ post.data.angle }}deg);">
 
-        <h2><a href=" {{ post.url }} ">{{ post.data.title }}</a></h2>
+            <h2>
+              <a href=" {{ post.url }} ">{{ post.data.title }}</a>
+            </h2>
 
-        {% if post.data.image %}
+            {% if post.data.image %}
 
-          <figure>
-            <img class="story-image" src="{{ post.data.image }}" alt="{{ psot.data.imageAlt }}">
-            <figcaption>{{ post.data.imageCaption }}</figcaption>
-          </figure>
+              <figure>
+                <img class="story-image" src="{{ post.data.image }}" alt="{{ psot.data.imageAlt }}">
+                <figcaption>{{ post.data.imageCaption }}</figcaption>
+              </figure>
 
-        {% endif %}
+            {% endif %}
 
-        <div class="story-copy">
+            <div class="story-copy">
 
-        {{ post.templateContent | safe }}
+              {{ post.templateContent | safe }}
 
+            </div>
+
+            <p class="story-date">
+              <date>{{ post.date.toDateString() }}</date>
+            </p>
+
+            <a class="twitter-share-button" target="_blank"
+  href="https://twitter.com/intent/tweet?text={{post.data.title}}&url=https://thewhalelines.com{{post.url}}">
+              <img class="twitter-icon" alt="Black Twitter icon" src="/images/brand-images/twitter-icon.png">
+            </a>
+
+          </article>
+
+        {%- endfor -%}
+
+        <div class="more-posts">
+          <p>
+            <a href="{{ '/news/' | url }}">See all stories</a> ⇁</p>
         </div>
 
-        <p class="story-date"><date>{{ post.date.toDateString() }}</date></p>
+      </div>
 
-        <a class="twitter-share-button" target="_blank"
-  href="https://twitter.com/intent/tweet?text={{post.data.title}}&url=https://thewhalelines.com{{post.url}}">
-          <img class="twitter-icon" alt="Black Twitter icon" src="/images/brand-images/twitter-icon.png">
-        </a>
+      <main></body>
 
-      </article>
-
-  {%- endfor -%}
-
-  <div class="more-posts">
-  <p><a href="{{ '/news/' | url }}">See all</a> ⇁</p>
-  </div>
-
-  </div>
-
-<main>
-
-</body>
-
-</html>
+    </html>
