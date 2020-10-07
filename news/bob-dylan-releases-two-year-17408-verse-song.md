@@ -7,6 +7,7 @@ angle: -0.3
 image: /images/story-images/bob-dylan-releases-two-year-song.png
 imageAlt: Bob Dylan performing live
 imageCaption: Bob Dylan performing on the Never Ever Ever Ending Tour
+imageSocial: /images/social-images/bob-dylan-two-year-song.png
 
 ---
 

@@ -7,6 +7,7 @@ angle: 0.1
 image: /images/story-images/vince-mcmahon-flying-elbow-drop.png
 imageAlt: Vince McMahon performing a flying elbow drop against vice president Joe Biden
 imageCaption: Vince McMahon mid flight
+imageSocial: /images/social-images/vince-mcmahon-wins-debate.png
 
 ---
 

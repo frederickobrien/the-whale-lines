@@ -6,7 +6,8 @@ description: The American people are preparing for a bright and beautiful new ch
 angle: -0.5
 image: /images/story-images/the-dome.png
 imageAlt: A huge dome in the countryside
-imageCaption: The dome
+imageCaption: Life in a bubble
+imageSocial: /images/social-images/the-dome.png
 
 ---
 

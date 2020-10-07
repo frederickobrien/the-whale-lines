@@ -7,6 +7,7 @@ angle: 1.5
 image: /images/story-images/liam-gallagher.png
 imageAlt: Liam Gallagher with his front teeth knocked out
 imageCaption: Liam Gallagher mad fer it
+imageSocial: /images/social-images/oasis-reunite-for-car-park-brawl.png
 
 ---
 

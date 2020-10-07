@@ -6,7 +6,8 @@ description: In a classic case of mischief making, it turns out the Q behind QAn
 angle: -0.3
 image: /images/story-images/q-of-q-continuum-behind-qanon.png
 imageAlt: Q of the Q Continuum enjoying a drink
-imageCaption: Q enjoys a long monologue
+imageCaption: Q lapping it up
+imageSocial: /images/social-images/q-of-q-continuum-behind-qanon.png
 
 ---
 

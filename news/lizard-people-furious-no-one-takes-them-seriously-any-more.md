@@ -7,6 +7,7 @@ angle: 1.4
 image: /images/story-images/lizard-people-furious.png
 imageAlt: A lizard person sitting in a boardroom chair
 imageCaption: Arllok Shivr at a lizard people meeting
+imageSocial: /images/social-images/lizard-people-furious.png
 
 ---
 

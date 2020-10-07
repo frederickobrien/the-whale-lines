@@ -7,6 +7,7 @@ angle: -0.9
 image: /images/story-images/statue-of-liberty-deported.png
 imageAlt: The Statue of Liberty
 imageCaption: The statue in a detention centre
+imageSocial: /images/social-images/statue-of-liberty-deported.png
 
 ---
 

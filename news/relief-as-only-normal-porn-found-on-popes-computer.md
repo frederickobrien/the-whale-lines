@@ -6,7 +6,8 @@ description: The Catholic Church breathed a collective sigh of relief today afte
 angle: -0.8
 image: /images/story-images/pope-francis.png
 imageAlt: Pope Francis
-imageCaption: The pope
+imageCaption: The people's pope
+imageSocial: /images/social-images/normal-porn-found-on-popes-computer.png
 
 ---
 

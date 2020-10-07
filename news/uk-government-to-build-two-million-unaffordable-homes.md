@@ -7,6 +7,7 @@ angle: -0.9
 image: /images/story-images/unaffordable-housing.png
 imageAlt: The front of a mansion
 imageCaption: Party donors called the plans 'a triumph'
+imageSocial: /images/social-images/uk-gov-to-build-unaffordable-housing.png
 
 ---
 
