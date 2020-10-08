@@ -156,6 +156,10 @@ footer p {
 
 /* NEWS STORIES */
 
+.articles-container {
+    width: 100%;
+}
+
 .news-story {
     margin-left: auto;
     margin-right: auto;
@@ -214,7 +218,7 @@ figcaption {
 }
 
 .twitter-icon {
-    width: 7%;
+    width: 10%;
     display: block;
     position: absolute;
     bottom: 35px;
@@ -371,7 +375,11 @@ figcaption {
 }
 
 .news-story {
-    width: 25%;
+    width: 24%;
+}
+
+.twitter-icon {
+    width: 7%;
 }
 
 .more-posts {

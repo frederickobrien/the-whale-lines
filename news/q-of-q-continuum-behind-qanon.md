@@ -5,7 +5,7 @@ date: 2020-09-16
 description: In a classic case of mischief making, it turns out the Q behind QAnon is none other than Q of the Q Continuum.
 angle: -0.3
 image: /images/story-images/q-of-q-continuum-behind-qanon.png
-imageAlt: Q of the Q Continuum enjoying a drink
+imageAlt: Q of the Q Continuum playing the trumpet
 imageCaption: Q lapping it up
 imageSocial: /images/social-images/q-continuum-behind-qanon.png
 

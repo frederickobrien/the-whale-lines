@@ -4,112 +4,79 @@ layout: base.njk
 
 ---
 
-<head>
+<main>
 
-  <meta property="og:title" content="{{ title }} | The Whale-Lines"/>
-  <meta property="og:type" content="article"/>
-  <meta property="og:url" content="{{ url }}"/>
-  <meta property="og:image:url" content="https://thewhalelines.com/images/brand-images/site-featured-fb.jpg"/>
-  <meta property="og:image:alt" content="A random pile of old newspapers."/>
-  <meta property="og:site_name" content="The Whale-Lines"/>
-  <meta property="og:description" content="{{ description }}"/>
+  <div class="articles-container">
 
-  <meta name="twitter:title" content="{{ title }} | The Whale-Lines">
-  <meta name="twitter:description" content="{{ description }}">
+    <article class="news-story" style="transform: rotate({{ angle }}deg);">
 
-  {% if imageSocial %}
+      <h2>{{ title }}</h2>
 
-  <meta name="twitter:image" content="https://thewhalelines.com{{imageSocial}}">
+      {% if image %}
 
-  {% else %}
+        <figure>
+          <img class="story-image" src="{{ image }}" alt="{{ imageAlt }}">
+          <figcaption>{{ imageCaption }}</figcaption>
+        </figure>
 
-  <meta name="twitter:image" content="https://thewhalelines.com/images/brand-images/site-featured.jpg">
-  
-  {% endif %}
+      {% endif %}
 
-  <meta name="twitter:card" content="summary_large_image">
+      <div class="story-copy">
 
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "SatiricalArticle",
-      "url": "https://thewhalelines.com{{ page.url | url }}",
-      "publisher": {
-        "@type": "Organization",
-        "name": "The Whale-Lines",
-        "description": "A fake news paper.",
-        "logo": "https://thewhalelines.com/images/brand-images/full-logo.png",
-        "url": "https://thewhalelines.com"
-      },
-      "author": {
-        "@type": "Person",
-        "name": "J. W. Marceau"
-      },
-      "headline": "{{ title }}",
-      "mainEntityOfPage": "https://thewhalelines.com{{ page.url | url }}",
-      "articleBody": "{{ content | striptags }}",
-      "image": "https://thewhalelines.com/images/brand-images/site-featured.jpg",
-      "datePublished": "{{ date }}"
-    }
-  </script>
+        {{ content | safe }}
 
-</head>
+      </div>
 
-<body>
-
-  <main>
-
-    <div class="articles-container">
-
-      <article class="news-story" style="transform: rotate({{ angle }}deg);">
-
-        <h2>{{ title }}</h2>
-
-        {% if image %}
-
-          <figure>
-            <img class="story-image" src="{{ image }}" alt="{{ imageAlt }}">
-            <figcaption>{{ imageCaption }}</figcaption>
-          </figure>
-
-        {% endif %}
-
-        <div class="story-copy">
-
-          {{ content | safe }}
-
-        </div>
-
-        <p class="story-date">
-          <date>{{ date.toDateString() }}</date>
-        </p>
-
-        <a class="twitter-share-button" target="_blank"
-  href="https://twitter.com/intent/tweet?text={{title}}&url=https://thewhalelines.com{{page.url}}">
-          <img class="twitter-icon" alt="Black Twitter icon" src="/images/brand-images/twitter-icon.png">
-        </a>
-
-      </article>
-
-    </div>
-
-    <div class="more-posts">
-      <p>
-        {%- set nextPost = collections.news | getNextCollectionItem(page) %}
-        {%- if nextPost %}
-          <strong>↼ <a href="{{ nextPost.url | url }}">Next</a> | </strong>
-        {% endif %}
-        {%- set previousPost = collections.news | getPreviousCollectionItem(page) %}
-        {%- if previousPost %}
-          <strong>
-            <a href="{{ previousPost.url | url }}">Previous</a> ⇁</strong>
-        {% endif %}
+      <p class="story-date">
+        <date>{{ date.toDateString() }}</date>
       </p>
 
-    </div>
+      <a class="twitter-share-button" target="_blank"
+  href="https://twitter.com/intent/tweet?text={{title}}&url=https://thewhalelines.com{{page.url}}">
+        <img class="twitter-icon" alt="Black Twitter icon" src="/images/brand-images/twitter-icon.png">
+      </a>
 
-  </main>
+    </article>
 
-</body>
+  </div>
 
-</html>
+  <div class="more-posts">
+    <p>
+      {%- set nextPost = collections.news | getNextCollectionItem(page) %}
+      {%- if nextPost %}
+        <strong>↼ <a href="{{ nextPost.url | url }}">Next</a> | </strong>
+      {% endif %}
+      {%- set previousPost = collections.news | getPreviousCollectionItem(page) %}
+      {%- if previousPost %}
+        <strong>
+          <a href="{{ previousPost.url | url }}">Previous</a> ⇁</strong>
+      {% endif %}
+    </p>
+
+  </div>
+
+</main>
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "SatiricalArticle",
+    "url": "https://thewhalelines.com{{ page.url | url }}",
+    "publisher": {
+      "@type": "Organization",
+      "name": "The Whale-Lines",
+      "description": "A fake news paper.",
+      "logo": "https://thewhalelines.com/images/brand-images/full-logo.png",
+      "url": "https://thewhalelines.com"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Frederick O'Brien"
+    },
+    "headline": "{{ title }}",
+    "mainEntityOfPage": "https://thewhalelines.com{{ page.url | url }}",
+    "articleBody": "{{ content | striptags }}",
+    "image": "https://thewhalelines.com/images/brand-images/site-featured.jpg",
+    "datePublished": "{{ date }}"
+  }
+</script>
