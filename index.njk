@@ -5,63 +5,68 @@ title: Home
 description: Real fake news.
 
 ---
- 
- <div class="articles-container">
 
-    {% set latest_posts = collections.news | reverse %}
+<div class="articles-container">
 
-    {% for post in latest_posts.slice(0, 10) %}
+  {% set latest_posts = collections.news | reverse %}
 
-      <article class="news-story" style="transform: rotate({{ post.data.angle }}deg);">
+  {% for post in latest_posts.slice(0, 10) %}
 
-        <h2>
-          <a href=" {{ post.url }} ">{{ post.data.title }}</a>
-        </h2>
+    <article class="news-story" style="transform: rotate({{ post.data.angle }}deg);">
 
-        {% if post.data.image %}
+      <h2>
+        <a href=" {{ post.url }} ">{{ post.data.title }}</a>
+      </h2>
 
-          <figure>
-            <img class="story-image" src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}">
-            <figcaption>{{ post.data.imageCaption }}</figcaption>
-          </figure>
+      {% if post.data.image %}
 
-        {% endif %}
+        <figure>
+          <img class="story-image" src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}">
+          <figcaption>{{ post.data.imageCaption }}</figcaption>
+        </figure>
 
-        <div class="story-copy">
+      {% endif %}
 
-          {{ post.templateContent | safe }}
+      <div class="story-copy">
 
-        </div>
+        {{ post.templateContent | safe }}
 
-        <p class="story-date">
-          <date>{{ post.date.toDateString() }}</date>
-        </p>
+      </div>
 
-        <a class="twitter-share-button" target="_blank"
+      <p class="story-date">
+        <date>{{ post.date.toDateString() }}</date>
+      </p>
+
+      <a class="twitter-share-button" target="_blank"
   href="https://twitter.com/intent/tweet?text={{post.data.title}}&url=https://thewhalelines.com{{post.url}}">
-          <img class="twitter-icon" alt="Black Twitter icon" src="/images/brand-images/twitter-icon.png">
-        </a>
+        <img class="twitter-icon" alt="Black Twitter icon" src="/images/brand-images/twitter-icon.png">
+      </a>
 
-      </article>
+    </article>
 
-    {%- endfor -%}
+  {%- endfor -%}
 
-    <div class="more-posts">
-      <p>
-        <a href="{{ '/news/' | url }}">See all stories</a> ⇁</p>
-    </div>
-  
-   <link href="https://twitter.com/thewhalelines" rel="me">
-  
+  <div class="more-posts">
+    <p>
+      <a href="{{ '/news/' | url }}">See all</a> ⇁</p>
   </div>
 
-    <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "Organization",
-        "name": "The Whale-Lines",
-        "description": "A fake news paper.",
-        "url": "https://thewhalelines.com",
-        "logo": "https://thewhalelines.com/images/brand-images/full-logo.png/"
-      }
-    </script>
+  <link href="https://twitter.com/thewhalelines" rel="me">
+
+</div>
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "The Whale-Lines",
+    "description": "A fake news paper.",
+    "founder": {
+      "@type": "Person",
+      "name": "Frederick O'Brien",
+      "sameAs": "https://fredobrien.co.uk"
+    },
+    "url": "https://thewhalelines.com",
+    "logo": "https://thewhalelines.com/images/brand-images/full-logo.png/"
+  }
+</script>

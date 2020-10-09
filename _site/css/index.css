@@ -320,10 +320,8 @@ figcaption {
 /* 404 */
 
 .four-oh-four-message {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 .four-oh-four-message h2 {
