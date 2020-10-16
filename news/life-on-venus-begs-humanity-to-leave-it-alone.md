@@ -1,7 +1,7 @@
 ---
 
 title: Life on Venus begs humanity to leave it alone
-date: 2020-10-16T00:44:47.000Z
+date: 2020-10-15T23:44:47.000Z
 description: Scientists today received direct communication from the life forms discovered on Venus in which humanity was warned to keep its distance indefinitely, or else.
 angle: 0.4
 
