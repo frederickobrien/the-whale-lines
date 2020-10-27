@@ -1,6 +1,6 @@
 ---
 
-title: Sacha Baron Cohen reveals Donald Trump has been one of his characters all along
+title: Sacha Baron Cohen reveals Donald Trump is one of his characters
 date: 2020-10-27T1:25:47.000Z
 description: American democracy is in even more of a crisis than it was before after it came to light Donald Trump does not exist except as a figment of Sacha Baron Cohen’s imagination.
 angle: 1
