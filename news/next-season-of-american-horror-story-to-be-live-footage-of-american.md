@@ -2,7 +2,7 @@
 
 title: Next season of ‘American Horror Story’ to be live footage of America
 date: 2020-11-10T12:19:47.000Z
-description: Producers on the hit TV show *American Horror Story* have confirmed they are shelving fictional scripts in favour of real-time documentary footage.
+description: Producers on the hit TV show American Horror Story have confirmed they are shelving fictional scripts in favour of real-time documentary footage.
 angle: -1.2
 
 ---
