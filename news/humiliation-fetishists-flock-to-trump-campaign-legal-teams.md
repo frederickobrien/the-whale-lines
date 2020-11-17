@@ -1,7 +1,7 @@
 ---
 
 title: Humiliation fetishists flock to Trump campaign lawsuit teams
-date: 2020-17-11T2:26:47.000Z
+date: 2020-11-17T2:26:47.000Z
 description: Hack law firms around the United States have been swamped with applications from BDSM enthusiasts keen to partake in the breathtakingly public humiliation of licking the outgoing president’s boots in court.
 angle: -1.1
 image: /images/story-images/humiliation-fetishists-flock-to-trump-campaign-legal-teams.png
