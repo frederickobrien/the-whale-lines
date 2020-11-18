@@ -157,6 +157,7 @@ footer p {
 .twitter-icon-footer {
     width: 2em; 
     margin: auto;
+    opacity: 0.8;
 }
 
 /* NEWS STORIES */
