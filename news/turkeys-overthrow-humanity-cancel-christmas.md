@@ -4,6 +4,10 @@ title: Turkeys overthrow humanity, cancel Christmas
 date: 2020-12-05T18:56:47.000Z
 description: After years of subjugation the turkeys have risen up and seized control over all life on earth, and declared Christmas over forever.
 angle: 1.4
+image: /images/story-images/turkeys-cancel-christmas.png
+imageAlt: An insurgent turkey
+imageCaption: Who's stuffed now?
+imageSocial: /images/social-images/turkeys-cancel-christmas.png
 
 ---
 
