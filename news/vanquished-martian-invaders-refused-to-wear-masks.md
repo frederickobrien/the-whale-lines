@@ -6,6 +6,8 @@ date: 2020-08-07
 angle: 0.1
 image: /images/story-images/martian-invaders-refused-to-wear-masks.png
 imageAlt: Martian war machines
+imageCaption: Ailing Martian tripods
+imageSocial: /images/social-images/martian-invaders-refused-to-wear-masks.png
 
 ---
 
