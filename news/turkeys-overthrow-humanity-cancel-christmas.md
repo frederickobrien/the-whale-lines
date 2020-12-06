@@ -2,7 +2,7 @@
 
 title: Turkeys overthrow humanity, cancel Christmas
 date: 2020-12-05T18:56:47.000Z
-description: After years of subjugation the turkeys have risen up and seized control over all life on earth, and declared Christmas over forever.
+description: After years of subjugation the turkeys have risen up and seized control over all life on Earth, and declared Christmas over forever.
 angle: 1.4
 image: /images/story-images/turkeys-cancel-christmas.png
 imageAlt: An insurgent turkey
@@ -11,7 +11,7 @@ imageSocial: /images/social-images/turkeys-cancel-christmas.png
 
 ---
 
-After years of subjugation the turkeys have risen up and seized control over all life on earth, and declared Christmas over forever.
+After years of subjugation the turkeys have risen up and seized control over all life on Earth, and declared Christmas over forever.
 
 For generations it had been hammered into turkeys that if only they’d stop voting for Christmas they’d stop being systematically killed and eaten. However, in recent years, with the help of insurgent turkey literature, they’d come to realise the entire system was rigged against them and the only answer was to burn it all down.
 
