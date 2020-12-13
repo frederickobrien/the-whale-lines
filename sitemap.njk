@@ -22,13 +22,18 @@ permalink: /sitemap.xml
   <lastmod>2020-11-18T16:31:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
 {%- for post in collections.news | reverse %}
   {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
   <entry>
     <loc>{{ absolutePostUrl }}</loc>
-    <lastmod>{{ post.date | htmlDateString }}</lastmod>
+    <lastmod>{{ post.date }}</lastmod>
   </entry>
 {%- endfor %}
-
+{%- for post in collections.letters | reverse %}
+  {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+  <entry>
+    <loc>{{ absolutePostUrl }}</loc>
+    <lastmod>{{ post.date }}</lastmod>
+  </entry>
+{%- endfor %}
 </urlset>
