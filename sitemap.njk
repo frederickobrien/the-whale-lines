@@ -25,14 +25,14 @@ permalink: /sitemap.xml
 {%- for post in collections.news | reverse %}
   {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
   <entry>
-    <loc>{{ absolutePostUrl }}</loc>
+    <loc>https://thewhalelines.com{{ absolutePostUrl }}</loc>
     <lastmod>{{ post.date }}</lastmod>
   </entry>
 {%- endfor %}
 {%- for post in collections.letters | reverse %}
   {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
   <entry>
-    <loc>{{ absolutePostUrl }}</loc>
+    <loc>https://thewhalelines.com{{ absolutePostUrl }}</loc>
     <lastmod>{{ post.date }}</lastmod>
   </entry>
 {%- endfor %}
