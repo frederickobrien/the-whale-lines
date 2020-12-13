@@ -24,17 +24,15 @@ permalink: /sitemap.xml
 </url>
 
 {%- for post in collections.news | reverse %}
-  {% set mappedUrl %}{{ metadata.url}}{{ post.url | url }}{% endset %}
   <url>
-    <loc>{{ mappedUrl }}</loc>
+    <loc>{{ post.url }}</loc>
     <lastmod>{{ post.date | htmlDateString }}</lastmod>
   </url>
 {%- endfor %}
 
 {%- for post in collections.letters | reverse %}
-  {% set mappedUrl %}{{ metadata.url}}{{ post.url | url }}{% endset %}
   <url>
-    <loc>{{ mappedUrl }}</loc>
+    <loc>{{ post.url }}</loc>
     <lastmod>{{ post.date | htmlDateString }}</lastmod>
   </url>
 {%- endfor %}
