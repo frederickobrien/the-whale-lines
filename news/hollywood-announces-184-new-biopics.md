@@ -7,7 +7,7 @@ angle: 0.2
 
 ---
 
-Ever pushing the envelope, leading film studios yesterday revealed plans to release cheap, cynical biopic films every other day in 2021.
+Ever pushing the envelope, leading film studios yesterday revealed plans to release a cheap, cynical biopic every other day in 2021.
 
 Projects include *Bogart*, about Humphrey Bogart; *MJ*, about Michael Jordan; *Hoover*, about J. Edgar Hoover; *Nina*, about Nina Simone; *King*, about Martin Luther King, Jr.; *Plath*, about Sylvia Plath; *Lennon*, about John Lennon; *Marilyn*, about Marilyn Monroe; *Oprah*, about Oprah; *Hendrix*, about Jimi Hendrix; *Letterman*, about David Letterman; *Leno*, about Jay Leno; *Earhart*, about Amelia Earhard; *Kerouac*, about Jack Kerouac; *Rosa*, about Rosa Parks; *Kim*, about Kim Kardashian; *Bonaparte*, about Napoleon Bonaparte; *Joe*, about Joseph Stalin; *Eleanor*, about Eleanor Roosevelt; *Joan*, about Joan of Arc; and *Jimmy*, about James Stewart.
 
