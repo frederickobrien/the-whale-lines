@@ -2,7 +2,7 @@
 
 title: Hollywood announces 184 new biopics
 date: 2020-12-29T02:05:47.000Z
-description: Ever pushing the envelope, leading film studios yesterday revealed plans to release cheap, cynical biopic films every other day in 2021.
+description: Ever pushing the envelope, leading film studios yesterday revealed plans to release a cheap, cynical biopic every other day in 2021.
 angle: 0.2
 
 ---
