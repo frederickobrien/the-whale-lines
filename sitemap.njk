@@ -9,7 +9,7 @@ permalink: /sitemap.xml
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://thewhalelines.com/</loc>
-  <lastmod>2020-11-18T16:31:14+00:00</lastmod>
+  <lastmod>2020-12-23T16:31:14+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
@@ -19,21 +19,21 @@ permalink: /sitemap.xml
 </url>
 <url>
   <loc>https://thewhalelines.com/letters/</loc>
-  <lastmod>2020-11-18T16:31:14+00:00</lastmod>
+  <lastmod>2020-12-23T16:31:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 {%- for post in collections.news | reverse %}
   {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
-  <entry>
+  <url>
     <loc>https://thewhalelines.com{{ absolutePostUrl }}</loc>
     <lastmod>{{ post.date }}</lastmod>
-  </entry>
+  </url>
 {%- endfor %}
 {%- for post in collections.letters | reverse %}
   {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
-  <entry>
+  <url>
     <loc>https://thewhalelines.com{{ absolutePostUrl }}</loc>
     <lastmod>{{ post.date }}</lastmod>
-  </entry>
+  </url>
 {%- endfor %}
 </urlset>
