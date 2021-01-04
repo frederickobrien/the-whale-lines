@@ -1,6 +1,6 @@
 ---
 
-title: Marie Antoinette cloned, clone given New York Times column
+title: Marie Antoinette cloned, clone given New York Times op-ed column
 date: 2021-01-04T10:16:34.000Z
 description: Ever pushing the envelope, leading film studios yesterday revealed plans to release a cheap, cynical biopic every other day in 2021.
 angle: -1.0
