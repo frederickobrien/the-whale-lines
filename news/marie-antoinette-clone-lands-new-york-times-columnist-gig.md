@@ -2,11 +2,12 @@
 
 title: Marie Antoinette cloned, clone given New York Times op-ed column
 date: 2021-01-04T10:16:34.000Z
-description: Ever pushing the envelope, leading film studios yesterday revealed plans to release a cheap, cynical biopic every other day in 2021.
+description: Former monarch Marie Antoinette of France has been successfully cloned using DNA samples, with the copy quickly landing a cushy gig writing sublimely out of touch verbal vomit for _The New York Times_ opinion section.
 angle: -1.0
 image: /images/story-images/marie-antoinette-clone-given-nyt-column.png
-imageAlt: Marie Antoinette
+imageAlt: Portrait of Marie Antoinette
 imageCaption: Ms. Antoinette at the office
+imageSocial: /images/social-images/marie-antoinette-clone-given-new-york-times-column.png
 
 ---
 
