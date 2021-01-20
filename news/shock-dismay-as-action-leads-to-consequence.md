@@ -7,7 +7,7 @@ angle: -0.3
 
 ---
 
-Millions are reeling - positively reeling - as **[CONSEQUENCE]** began to make itself felt following **[ACTION]**.
+Millions are reeling - positively reeling - after **[CONSEQUENCE]** began to make itself felt following **[ACTION]**.
 
 Countless experts had warned **[ACTION]** would almost certainly lead to **[CONSEQUENCE]**, citing various facts, figures, and historical precedents in the process, but their concerns were widely dismissed as elitist fear mongering.
 
