@@ -4,10 +4,6 @@ title: Biden administration to distribute two thousand one-dollar checks
 date: 2021-01-27T18:30:00.000Z
 description: Making good on their campaign promise of ‘two thousand dollar checks’ the Democrats today passed emergency legislation to give one-dollar checks to 2,000 lucky Americans.
 angle: 0.2
-image: /images/story-images/biden-one-dollar-checks.png
-imageAlt: A One Dollar bill
-imageCaption: Time for that car downpayment!
-imageSocial: /images/social-images/biden-one-dollar-checks.png
 
 ---
 
