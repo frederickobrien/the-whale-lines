@@ -15,8 +15,8 @@ According to a crack team based at the Massachusetts Institute of Technology, th
 
 At the current rate of growth there will be approximately 48 billion podcasts by 2026, and 146 billion by 2029, putting unspeakable strain on data storage resources and the energy sources needed to power them. By 2050 an estimated 93% of all human activity will involve making or listening to podcasts.
 
-“The planet can’t take it,” Goldbloomer says. “We owe it to our children and our children’s children to do something about this now.”
+“The planet can’t take it,” Goldbloomer said. “We owe it to our children and our children’s children to do something about this now.”
 
 Suggestions that governments around the world implement a ‘one podcast per person’ policy have been condemned by the official ACLU podcast as authoritarian and a gross violation of civil liberties.
 
-For a full breakdown of the story be sure to check out the new Whale-Lines podcast, available on fine listening platforms everywhere.
+For a full breakdown of the story be sure to check out the new _Whale-Lines_ podcast, available on fine listening platforms everywhere.
