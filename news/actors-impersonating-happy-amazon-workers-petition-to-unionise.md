@@ -1,6 +1,6 @@
 ---
 
-title: Actors hired to impersonate happy Amazon workers petition to form union
+title: Actors hired by Amazon to impersonate happy workers petition to form union
 date: 2021-03-30T02:15:00.000Z
 description: Thousands of actors employed by Amazon to impersonate happy warehouse workers moved to unionise today, citing poor pay and non-existent health insurance plans as key motivators.
 angle: -0.1
