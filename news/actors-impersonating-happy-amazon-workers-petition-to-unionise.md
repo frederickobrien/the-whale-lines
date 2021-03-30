@@ -17,4 +17,4 @@ The company had hoped to diffuse criticism by denying all evidence of wrongdoing
 
 Ballots will be tallied in two weeks, with Amazon facing the prospect of entering into negotiations with the Associated Actors, Artistes, and ‘Artists’ of America (AAA‘A’A).
 
-Actors hired by Amazon to pretend to be actors hired by Amazon to pretend to be Amazon workers reportedly have no plans to unionise as yet.
+Actors hired by Amazon to pretend to be happy actors hired by Amazon to pretend to be happy Amazon workers reportedly have no plans to unionise as yet.
