@@ -1,7 +1,7 @@
 ---
 
 title: UK Labour Party releases policy-free manifesto in bid to broaden appeal
-date: 2021-05-19T00:13:00.000Z
+date: 2021-05-18T19:13:00.000Z
 description: Sir Keir Starmer wowed his political consultants today by publishing a 90-page Labour manifesto without a single concrete policy position in it.
 angle: 1.2
 
