@@ -4,6 +4,10 @@ title: Matt Hancock apologises for fucking your wife
 date: 2021-06-28T16:13:00.000Z
 description: Former British health secretary and international sex symbol Matt Hancock today issued a formal apology for making sweet love to your missus at the height of lockdown.
 angle: 0.6
+image: /images/story-images/matt-hancock-laughing.png
+imageAlt: Matt Hancock smiles while apologising for fucking your wife
+imageCaption: Mr. Hancock overwhelmed by remorse
+imageSocial: /images/social-images/matt-hancock-laughing.png
 
 ---
 
