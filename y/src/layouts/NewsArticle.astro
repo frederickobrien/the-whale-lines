@@ -1,0 +1,61 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+
+export interface Props {
+  content: {
+    headline: string;
+    blurb: string;
+    date?: string;
+    image?: string;
+    imageAlt?: string;
+    imageCaption?: string;
+  };
+}
+
+const {
+  content: { headline, blurb, date, image, imageAlt, imageCaption },
+} = Astro.props;
+
+function randomIntFromInterval(min: number, max: number) {
+  return Math.random() * (max - min + 1) + min;
+}
+
+const articleAngle = `rotate(${randomIntFromInterval(-1, 1)}deg)`;
+---
+
+<html lang="en">
+  <head>
+    <BaseHead title={headline} description={blurb} />
+    <style>
+      .title {
+        font-size: 2em;
+        margin: 0.25em 0 0;
+      }
+      hr {
+        border-top: 1px solid #ddd;
+        margin: 1rem 0;
+      }
+    </style>
+  </head>
+
+  <body>
+    <Header />
+    <main>
+      <article>
+        {image && <img width={720} height={360} src={image} alt={imageAlt} />}
+        <h1 class="title">{headline}</h1>
+        {date && <time>{date}</time>}
+        <hr />
+        <slot />
+      </article>
+    </main>
+    <Footer />
+    <style define:vars={{ articleAngle }}>
+      article {
+        transform: var(--articleAngle);
+      }
+    </style>
+  </body>
+</html>
