@@ -1,0 +1,54 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import StorySheet from "../components/StorySheet.astro";
+
+export interface Props {
+  content: {
+    headline: string;
+    blurb: string;
+    date: string;
+    image?: string;
+    imageAlt?: string;
+    imageCaption?: string;
+  };
+}
+
+const {
+  content: { headline, blurb, date, image, imageAlt, imageCaption },
+} = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <BaseHead title={headline} description={blurb} />
+  </head>
+
+  <body>
+    <Header />
+    <main>
+      <StorySheet
+        headline={headline}
+        date={date}
+        image={image}
+        imageAlt={imageAlt}
+        imageCaption={imageCaption}
+      >
+        <slot />
+      </StorySheet>
+      <div class="link-to-all-stories">
+        <strong><a href="/news">All stories</a> ⇁</strong>
+      </div>
+    </main>
+    <Footer />
+    <style>
+      .link-to-all-stories {
+        text-align: center;
+      }
+      .link-to-all-stories a {
+        text-decoration: underline;
+      }
+    </style>
+  </body>
+</html>

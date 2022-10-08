@@ -1,0 +1,126 @@
+---
+import { formatDate, randomIntFromInterval } from "../../helpers";
+
+export interface Props {
+  headline: string;
+  content?: any;
+  date: string;
+  image?: string;
+  imageAlt?: string;
+  imageCaption?: string;
+}
+
+const { headline, content, date, image, imageAlt, imageCaption } = Astro.props;
+
+const articleAngle = `rotate(${randomIntFromInterval(-1, 1)}deg)`;
+---
+
+<article class="news-story">
+  <h1 class="story-headline">{headline}</h1>
+  {
+    image && imageAlt && imageCaption && (
+      <figure>
+        <img class="story-image" src={image} alt={imageAlt} />
+        <figcaption>{imageCaption}</figcaption>
+      </figure>
+    )
+  }
+  <div class="story-copy">
+    <slot>
+      <div set:html={content}></div>
+    </slot>
+  </div>
+  <div class="story-date">
+    <date datetime={date}>
+      {formatDate(date)}
+    </date>
+  </div>
+
+  <a
+    class="twitter-share-button"
+    rel="noopener"
+    target="_blank"
+    href={`https://twitter.com/intent/tweet?text=${headline}&url=${Astro.url}`}
+  >
+    <img
+      class="twitter-icon"
+      alt="Black Twitter icon"
+      src="/images/brand-images/twitter-icon.png"
+    />
+  </a>
+</article>
+
+<style define:vars={{ articleAngle }}>
+  article {
+    transform: var(--articleAngle);
+    max-width: 400px;
+  }
+  .story-headline {
+    font-family: "Londrina Solid", cursive;
+    font-size: 2.1em;
+    margin-bottom: 20px;
+    color: rgb(88, 85, 85);
+    line-height: 1;
+  }
+  .news-story {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    width: 80%;
+    background-color: #fffefe;
+    background-image: url("/images/paper-texture.png");
+    color: #383433;
+    padding: 20px 25px 30px 25px;
+    box-shadow: 0px 0px 20px 0px rgba(160, 160, 160, 0.95);
+    border-radius: 2px;
+  }
+  .news-story a {
+    color: rgb(88, 85, 85);
+    text-decoration: none;
+  }
+  .news-story a:hover {
+    color: gray;
+  }
+  .story-image {
+    filter: grayscale(100%);
+    opacity: 0.9;
+    border-radius: 2px;
+  }
+
+  figcaption {
+    color: #383433;
+    font-size: 0.8em;
+    text-align: right;
+    font-family: "Londrina Solid", cursive;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+  .story-copy {
+    font-family: "Special Elite", cursive;
+    text-indent: 10%;
+    line-height: normal;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-bottom: 40px;
+  }
+  .story-date {
+    text-align: right;
+    font-family: "Rock Salt", cursive;
+    transform: rotate(-5deg);
+    color: darkred;
+    margin-top: 20px;
+  }
+  .twitter-icon {
+    width: 8%;
+    display: block;
+    position: absolute;
+    bottom: 35px;
+    left: 35px;
+    opacity: 0.7;
+  }
+
+  .twitter-icon:hover {
+    opacity: 0.5;
+  }
+</style>

@@ -1,0 +1,38 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import Letter from "../components/Letter.astro";
+
+const letters = (await Astro.glob("./letters/*.{md,mdx}")).sort(
+  (a, b) =>
+    new Date(b.frontmatter.date).valueOf() -
+    new Date(a.frontmatter.date).valueOf()
+);
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <BaseHead
+      title="Letters from the Editor"
+      description="Straight from the desk of Blythe Corker"
+    />
+  </head>
+  <body>
+    <Header />
+    <main>
+      <section>
+        {
+          letters.map((letter) => (
+            <Letter
+              content={letter.compiledContent()}
+              date={letter.frontmatter.date}
+            />
+          ))
+        }
+      </section>
+    </main>
+    <Footer />
+  </body>
+</html>

@@ -1,7 +1,18 @@
-The Whale-Lines is a fake news paper, publishing fake and nonsense stories when staff feels like it.
+# The Whale-Lines
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/509dc94d-256a-488f-af6d-dbf877320bd5/deploy-status)](https://app.netlify.com/sites/the-whale-lines/deploys)
+A fake news paper publishing satirical and nonsense stories when staff feels like it.
 
-### Future projects/features
+Previously built with 11ty, now Astro.
 
-- Webmentions (https://webmention.io/)
+## Commands
+
+All commands are run from the root of the project, from a terminal:
+
+| Command                | Action                                           |
+| :--------------------- | :----------------------------------------------- |
+| `npm install`          | Installs dependencies                            |
+| `npm run dev`          | Starts local dev server at `localhost:3000`      |
+| `npm run build`        | Build your production site to `./dist/`          |
+| `npm run preview`      | Preview your build locally, before deploying     |
+| `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro --help` | Get help using the Astro CLI                     |

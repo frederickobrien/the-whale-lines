@@ -1,0 +1,50 @@
+---
+import { formatDate, randomIntFromInterval } from "../../helpers";
+
+export interface Props {
+  content: string;
+  date: string;
+}
+
+const { content, date } = Astro.props;
+
+const letterAngle = `rotate(${randomIntFromInterval(-1, 1)}deg)`;
+---
+
+<div class="letter">
+  <div class="letter-contents">
+    <div class="letter-date">{formatDate(date)}</div>
+    <div class="letter-text-container" set:html={content}></div>
+  </div>
+</div>
+
+<style define:vars={{ letterAngle }}>
+  .letter {
+    transform: var(--letterAngle);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f5f0da;
+    background-image: url("https://www.transparenttextures.com/patterns/paper-2.png");
+    box-shadow: 0px 0px 20px 0px rgba(160, 160, 160, 0.95);
+    margin-bottom: 50px;
+    font-family: "La Belle Aurore", cursive;
+    color: rgb(6, 44, 94);
+    font-size: 24px;
+    padding-bottom: 20px;
+    line-height: 1.2;
+  }
+
+  .letter-contents {
+    padding: 50px;
+  }
+
+  .letter-date {
+    text-align: right;
+    margin-bottom: 30px;
+  }
+
+  .letter-tex-container p {
+    padding-bottom: 30px;
+  }
+</style>

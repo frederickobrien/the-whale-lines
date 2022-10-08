@@ -1,1 +1,0 @@
-Images are 1000px wide and use 11 on the GIMP newsprint setting

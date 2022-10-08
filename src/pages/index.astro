@@ -1,0 +1,59 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
+import StorySheet from "../components/StorySheet.astro";
+
+const tenMostRecentStories = (await Astro.glob("./news/*.{md,mdx}"))
+  .sort(
+    (a, b) =>
+      new Date(b.frontmatter.date).valueOf() -
+      new Date(a.frontmatter.date).valueOf()
+  )
+  .slice(0, 10);
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <BaseHead title="Real fake news" description={SITE_DESCRIPTION} />
+  </head>
+  <body>
+    <Header title={SITE_TITLE} />
+    <main>
+      {
+        tenMostRecentStories.map((story) => {
+          return (
+            <a href={story.url}>
+              <StorySheet
+                headline={story.frontmatter.headline}
+                content={story.compiledContent()}
+                date={story.frontmatter.date}
+                image={story.frontmatter.image}
+                imageAlt={story.frontmatter.imageAlt}
+                imageCaption={story.frontmatter.imageCaption}
+              />
+            </a>
+          );
+        })
+      }
+      <div class="more-posts">
+        <a href="/news">See all</a> ⇁
+      </div>
+    </main>
+    <Footer />
+    <style>
+      .more-posts {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 25px;
+        text-align: center;
+      }
+      .more-posts a {
+        text-decoration: underline;
+      }
+    </style>
+  </body>
+</html>
