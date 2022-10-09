@@ -1,10 +1,7 @@
 ---
-
 title: New BBC ‘impartiality’ rules ban staff from saying genocide, human trafficking, Coldplay are bad
 date: 2020-12-23T18:30:47.000Z
 description: After years of subjugation the turkeys have risen up and seized control over all life on Earth, and declared Christmas over forever.
-angle: -0.7
-
 ---
 
 BBC journalists have been told they should keep their wackjob opinions on basic human rights to themselves, with bosses keen to safeguard the broadcaster’s unbiased reputation.

@@ -1,10 +1,7 @@
 ---
-
-title: Keir Starmer denies having Jeremy Corbyn edited out of old Labour photos 
+title: Keir Starmer denies having Jeremy Corbyn edited out of old Labour photos
 date: 2021-08-08T21:15:00.000Z
 description: Labour Party leader Keir Starmer has brushed off claims that Jeremy Corbyn has been purged from the party’s recent history.
-angle: -0.9
-
 ---
 
 Labour Party leader Keir Starmer has brushed off claims that Jeremy Corbyn has been purged from the party’s recent history.

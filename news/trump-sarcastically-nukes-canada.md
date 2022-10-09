@@ -1,10 +1,7 @@
 ---
-
 title: Trump sarcastically nukes Canada
 date: 2020-05-02
 description: President Donald Trump got one over on the liberal media yesterday by eviscerating all life in Canada with dozens of nuclear bombs.
-angle: 1.2
-
 ---
 
 President Donald Trump got one over on the liberal media yesterday by eviscerating all life in Canada with dozens of nuclear bombs.

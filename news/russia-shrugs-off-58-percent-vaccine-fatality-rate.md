@@ -1,10 +1,7 @@
 ---
-
 title: Russia shrugs off 58% vaccine fatality rate as ‘collateral damage’
 date: 2020-08-14
 description: Reports that Russia’s new COVID vaccination kills more than half of those who receive it have been dismissed by the Kremlin as hyperbolic.
-angle: -0.7
-
 ---
 
 Reports that Russia’s new COVID vaccination kills more than half of those who receive it have been dismissed by the Kremlin as hyperbolic.

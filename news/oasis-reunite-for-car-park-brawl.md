@@ -1,14 +1,11 @@
 ---
-
 title: Oasis reunite for car park brawl
 date: 2019-12-15
 description: Legendary rock brothers Liam and Noel Gallagher succumbed to pressure from fans and met yesterday for a punch up in a Tesco parking lot in London.
-angle: 1.5
 image: /images/story-images/liam-gallagher.png
 imageAlt: Liam Gallagher with his front teeth knocked out
 imageCaption: Liam Gallagher mad fer it
 imageSocial: /images/social-images/oasis-reunite-for-car-park-brawl.png
-
 ---
 
 Legendary rock brothers Liam and Noel Gallagher succumbed to pressure from fans and met yesterday for a punch up in a Tesco parking lot in London.

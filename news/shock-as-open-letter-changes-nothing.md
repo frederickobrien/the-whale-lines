@@ -1,10 +1,7 @@
 ---
-
 title: Shock, dismay as open letter changes absolutely fucking nothing
 date: 2020-07-08
 description: The world’s academics, philosophers, and self-appointed free-thinkers are really sad after their open letter about the Oxford comma had zero impact on how people behave and will continue to behave.
-angle: 0.6
-
 ---
 
 The world’s academics, philosophers, and self-appointed free-thinkers are really sad after their open letter about the Oxford comma had zero impact on how people behave and will continue to behave.

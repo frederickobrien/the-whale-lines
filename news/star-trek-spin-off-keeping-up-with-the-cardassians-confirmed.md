@@ -1,15 +1,12 @@
 ---
-
 title: Star Trek spin-off ‘Keeping Up with the Cardassians’ confirmed
 date: 2020-01-07
 description: A new Star Trek series focusing on the lives of a Cardassian family was announced by CBS today at a celebratory party in Los Angeles.
-angle: -0.8
-
 ---
 
-A new *Star Trek* series focusing on the lives of a Cardassian family was announced by CBS today at a celebratory party in Los Angeles.
+A new _Star Trek_ series focusing on the lives of a Cardassian family was announced by CBS today at a celebratory party in Los Angeles.
 
-The show, entitled *Keeping Up with the Cardassians*, will centre on the spoilt, self-involved children of Gul Dukat, a fan favourite character from Deep Space Nine.
+The show, entitled _Keeping Up with the Cardassians_, will centre on the spoilt, self-involved children of Gul Dukat, a fan favourite character from Deep Space Nine.
 
 CBS President Kelly Kahl, who attended the party, said: “Few franchises hold as many posibilities as Star Trek does. We’re delighted to be pushing the envelope with this new series.”
 

@@ -1,10 +1,7 @@
 ---
-
-title: Demand grows for competent tyrants 
+title: Demand grows for competent tyrants
 date: 2021-10-30T12:15:00.000Z
 description: The huddled masses of the world are pining to be under the thumb of better despots, according to a new survey published by the University of Bristol yesterday.
-angle: 0.1
-
 ---
 
 The huddled masses of the world are pining to be under the thumb of better despots, according to a new survey published by the University of Bristol yesterday.

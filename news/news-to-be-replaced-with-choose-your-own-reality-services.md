@@ -1,10 +1,7 @@
 ---
-
 title: News to be replaced with Choose Your Own Reality services
 date: 2020-11-25T22:34:47.000Z
 description: Original reporting that unearths and shares ugly truths in the public interest is to be phased out of all media and replaced by ‘less challenging’ interactive formats.
-angle: -0.4
-
 ---
 
 Original reporting that unearths and shares ugly truths in the public interest is to be phased out of all media and replaced by ‘less challenging’ interactive formats.

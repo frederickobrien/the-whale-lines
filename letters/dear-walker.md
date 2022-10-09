@@ -1,9 +1,6 @@
 ---
-
 title: Dear Walker
 date: 2020-11-23
-angle: 1.1
-
 ---
 
 Walker,

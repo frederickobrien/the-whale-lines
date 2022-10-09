@@ -1,14 +1,11 @@
 ---
-
 title: UK government announces plans to build two million unaffordable homes
 date: 2020-01-17
 description: Conservative party donor and housing secretary Winston Hutherforth III, Esq. vowed not a single one of the luxury builds will cost a penny below four million pounds.
-angle: -0.9
 image: /images/story-images/unaffordable-housing.png
 imageAlt: The front of a mansion
 imageCaption: Party donors called the plans 'a triumph'
 imageSocial: /images/social-images/uk-gov-to-build-unaffordable-housing.png
-
 ---
 
 More than two million unaffordable homes will be built across the United Kingdom over the next two years, the government announced yesterday.

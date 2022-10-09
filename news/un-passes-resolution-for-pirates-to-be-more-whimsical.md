@@ -1,10 +1,7 @@
 ---
-
 title: UN passes resolution for pirates to be more whimsical
 date: 2020-03-14
 description: The United Nations has updated the Universal Declaration of Human Rights to mandate that all peoples have a right for their interactions with pirates to be charming and fun.
-angle: 1
-
 ---
 
 The United Nations has updated the Universal Declaration of Human Rights to mandate that all peoples have a right for their interactions with pirates to be charming and fun.
@@ -13,7 +10,7 @@ Piracy has been increasingly associated with desperation, violence, and despair.
 
 Article 31 will take effect in September, allowing for a grace period in which pirates around the world can tidy up their behaviour. It is understood Disney will serve a consultancy role.
 
-When approached for comment, Somali pirates took *Whale-Lines* reporter James Jameson Jr. hostage and said: “These measures are self-involved nonsense and have no place in hydrarchy. Who’s going to stop us? The Pirate Police?”
+When approached for comment, Somali pirates took _Whale-Lines_ reporter James Jameson Jr. hostage and said: “These measures are self-involved nonsense and have no place in hydrarchy. Who’s going to stop us? The Pirate Police?”
 
 A Pirate Police task force is being formed as part of Article 31, composed mainly of students on gap years drawn by the promise of interesting Instagram feeds. It is unclear whether the Pirate Police will also have to conduct themselves whimsically.
 

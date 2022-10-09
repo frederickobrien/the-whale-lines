@@ -1,10 +1,7 @@
 ---
-
 title: Government runs perfectly after being sprayed with WD-40
 date: 2020-06-22
 description: UK democracy is running like a dream after it occurred to a Civil Service intern to try spraying it with the ever-reliable WD-40 spray.
-angle: 1.3
-
 ---
 
 UK democracy is running like a dream after it occurred to a Civil Service intern to try spraying it with the ever-reliable WD-40 spray.

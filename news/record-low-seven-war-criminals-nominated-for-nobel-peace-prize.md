@@ -1,10 +1,7 @@
 ---
-
 title: Record low seven war criminals nominated for Nobel Peace Prize
 date: 2020-02-26
 description: Human rights groups the world over were elated yesterday when a mere seven war criminals were nominated for this year’s Nobel Peace Prize.
-angle: -0.5
-
 ---
 
 Human rights groups the world over were elated yesterday when a mere seven war criminals were nominated for this year’s Nobel Peace Prize.

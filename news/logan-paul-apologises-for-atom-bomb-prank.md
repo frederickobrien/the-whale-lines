@@ -1,14 +1,11 @@
 ---
-
 title: Logan Paul apologises for detonating atom bomb as ‘prank’
 date: 2020-02-07
 description: YouTube personality Logan Paul has apologised for a ‘prank’ video in which he detonated a 34 megaton nuclear bomb in downtown Manhattan.
-angle: 1
 image: /images/story-images/logan-paul-atom-bomb-prank.png
 imageAlt: Mushroom cloud from a nuclear explosion
 imageCaption: A mushroom cloud forms over New York
 imageSocial: /images/social-images/logan-paul-atom-bomb-prank.png
-
 ---
 
 YouTube personality Logan Paul has apologised for a ‘prank’ video in which he detonated a 34 megaton nuclear bomb in downtown Manhattan.

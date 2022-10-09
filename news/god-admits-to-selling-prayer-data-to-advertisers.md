@@ -1,10 +1,7 @@
 ---
-
 title: God admits selling prayer data to advertisers
 date: 2020-10-05T20:50:47.000Z
 description: The all powerful creator of the universe today acknowledged that it has been selling prayer data to advertisers for at least six years.
-angle: -0.5
-
 ---
 
 The all powerful creator of the universe today acknowledged that it has been selling prayer data to advertisers for at least six years.

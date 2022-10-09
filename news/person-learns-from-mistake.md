@@ -1,10 +1,7 @@
 ---
-
 title: Person learns from mistake
 date: 2020-09-28
 description: A humble Illinois carpenter made history yesterday by becoming the first human this millennia to genuinely learn from a mistake.
-angle: 1.3
-
 ---
 
 A humble Illinois carpenter made history yesterday by becoming the first human this millennia to genuinely learn from a mistake.

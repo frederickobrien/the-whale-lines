@@ -1,9 +1,6 @@
 ---
-
 title: Dear concerned readers
 date: 2020-11-28
-angle: -0.4
-
 ---
 
 Dear concerned readers,

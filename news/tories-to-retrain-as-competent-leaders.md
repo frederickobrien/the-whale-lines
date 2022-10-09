@@ -1,10 +1,7 @@
 ---
-
 title: Tories to retrain as competent leaders
 date: 2020-10-16T22:54:47.000Z
 description: In the spirit of leading by example, the entire UK Conservative government has signed up for apprenticeships in not being breathtakingly useless wankers, with hopes of being fit to govern within four years.
-angle: -1.4
-
 ---
 
 In the spirit of leading by example, the entire UK Conservative government has signed up for apprenticeships in not being breathtakingly useless wankers, with hopes of being fit to govern within four years.

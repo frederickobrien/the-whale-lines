@@ -1,14 +1,11 @@
 ---
-
 title: "REVEALED: Vanquished Martian invaders refused to wear masks"
 description: The Martian aliens that terrorised humankind before succumbing to infections died totally needlessly, new evidence revealed today.
 date: 2020-08-07
-angle: 0.1
 image: /images/story-images/martian-invaders-refused-to-wear-masks.png
 imageAlt: Martian war machines
 imageCaption: Ailing Martian tripods
 imageSocial: /images/social-images/martian-invaders-refused-to-wear-masks.png
-
 ---
 
 The Martian aliens that terrorised humankind before succumbing to infections died totally needlessly, new evidence revealed today.

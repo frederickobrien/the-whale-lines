@@ -1,10 +1,7 @@
 ---
-
 title: Twelve unpublished novels found in Harper Lee’s glove compartment
 date: 2019-10-06
 description: Tonja Cart, the Lee estate’s executor, also claims to have unearthed two graphic novels and a Netflix miniseries script.
-angle: -1
-
 ---
 
 A dozen To Kill a Mockinbird followup novels have been discovered in the glovebox of Harper Lee’s old car.

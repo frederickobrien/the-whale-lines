@@ -1,10 +1,7 @@
 ---
-
 title: Nick Clegg hired as spokesperson for North Korea Tourism Agency
 date: 2019-11-18
 description: Former deputy prime minister Nick Clegg revealed today that he is leaving his role at Facebook in order to serve as chief spokesperson for the North Korea Tourism Agency.
-angle: -0.9
-
 ---
 
 Former deputy prime minister Nick Clegg revealed today that he is leaving his role at Facebook in order to serve as chief spokesperson for the North Korea Tourism Agency.
@@ -15,4 +12,4 @@ The move marks the latest in an illustrious career of apologetics for Clegg, who
 
 Clegg’s salary is understood to be ₩18,473,738,592 (around £12 million) a year, with benefits including a cycle to work scheme and his very own labour camp.
 
-Vince Cable was approached for comment but *Whale-Line* reporters were told he was napping.
+Vince Cable was approached for comment but _Whale-Line_ reporters were told he was napping.

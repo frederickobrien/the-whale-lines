@@ -1,10 +1,7 @@
 ---
-
 title: Ted Cruz melts after intern spills water on him
 date: 2020-04-09
 description: A national holiday has been declared following the unexpected demise of Texas senator Ted Cruz, who melted into a pile of mush after an intern spilled bottled water on him this morning.
-angle: 0.9
-
 ---
 
 A national holiday has been declared following the unexpected demise of Texas senator Ted Cruz, who melted into a pile of mush after an intern spilled bottled water on him this morning.

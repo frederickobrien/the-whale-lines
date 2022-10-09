@@ -1,10 +1,7 @@
 ---
-
 title: Love discontinued after quantitative assessment finds it ‘lacking in value’
 date: 2020-10-23T15:51:47.000Z
 description: The emotion of love is to be phased out of human nature after a cutting edge study found it to be incompatible with planetary culture.
-angle: -0.3
-
 ---
 
 The emotion of love is to be phased out of human nature after a cutting edge study found it to be incompatible with planetary culture.

@@ -1,14 +1,11 @@
 ---
-
 title: Aliens abducted by Matt Bellamy
 date: 2020-03-19
 description: In a truly alpha move, rockstar Matt Bellamy stumped skeptics and naysayers alike yesterday by revealing he had abducted two little green aliens from outer space.
-angle: 0.3
 image: /images/story-images/aliens-abducted-by-matt-bellamy.png
 imageAlt: Matt Bellamy and Dom Howard from the band Muse
 imageCaption: Matt Bellamy and Dom Howard during their broadcast
 imageSocial: /images/social-images/aliens-abducted-by-matt-bellamy.png
-
 ---
 
 In a truly alpha move, rockstar Matt Bellamy stumped skeptics and naysayers alike yesterday by revealing he had abducted two little green aliens from outer space.

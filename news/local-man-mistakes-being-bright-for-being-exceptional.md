@@ -1,10 +1,7 @@
 ---
-
 title: Local man mistakes being bright for being exceptional
 date: 2020-01-28
 description: Layabout Whelan Jones yesterday came to terms with the fact that although he is relatively bright, he really isn’t all that great.
-angle: -0.7
-
 ---
 
 Layabout Whelan Jones yesterday came to terms with the fact that although he is relatively bright, he really isn’t all that great.

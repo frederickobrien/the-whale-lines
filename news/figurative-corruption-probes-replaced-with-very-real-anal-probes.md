@@ -1,14 +1,11 @@
 ---
-
 title: Figurative corruption probes to be replaced with very real anal probes
 date: 2021-02-22T12:30:00.000Z
 description: Watchdog organisations around the world today announced plans to step up their investigative processes by replacing strongly worded disapproval with strongly applied rectal equipment when dealing with silk collar criminals.
-angle: -1.2
 image: /images/story-images/corruption-probes-replaced-by-anal-probes.png
 imageAlt: Person putting on a rubber glove
 imageCaption: Law enforcement has been told to take ‘an Ice Cube approach' to lubrication
 imageSocial: /images/social-images/corruption-probes-replaced-by-anal-probes.png
-
 ---
 
 Watchdog organisations around the world today announced plans to step up their investigative processes by replacing strongly worded disapproval with strongly applied rectal equipment when dealing with silk collar criminals.

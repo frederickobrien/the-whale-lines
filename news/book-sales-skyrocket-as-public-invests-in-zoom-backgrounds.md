@@ -1,10 +1,7 @@
 ---
-
 title: Book sales skyrocket as public invests in Zoom backgrounds
 date: 2020-05-09
 description: Printed book sales have increased by 247% in the last three months, according to statistics released by the publishing industry.
-angle: -0.9
-
 ---
 
 Printed book sales have increased by 247% in the last three months, according to statistics released by the publishing industry today.

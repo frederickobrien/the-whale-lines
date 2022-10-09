@@ -1,10 +1,7 @@
 ---
-
 title: Podcast population growth ‘out of control’
 date: 2021-03-28T19:15:00.000Z
 description: The current rate of new podcasts being created is unsustainable and will surely lead to humanity’s ruin within 30 years if left unchecked, top scientists have warned.
-angle: 0.6
-
 ---
 
 The current rate of new podcasts being created is unsustainable and will surely lead to humanity’s ruin within 30 years if left unchecked, top scientists have warned.

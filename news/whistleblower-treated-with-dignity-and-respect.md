@@ -1,10 +1,7 @@
 ---
-
 title: Whistleblower treated with dignity and respect
 date: 2020-08-01
 description: Jessica Jenkins, the woman who blew the whistle on sinister, unconstitutional behaviour in the CIA, has been awarded the Presidential Medal of Freedom for services to democracy.
-angle: 0.8
-
 ---
 
 Jessica Jenkins, the woman who blew the whistle on sinister, unconstitutional behaviour in the CIA, has been awarded the Presidential Medal of Freedom for services to democracy.

@@ -1,10 +1,7 @@
 ---
-
 title: Hayao Miyazaki announces new films at retirement party
 date: 2020-03-28
 description: Legendary filmmaker Hayao Miyazaki surprised absolutely no-one last night by admitting he would direct at least three more Studio Ghibli feature films.
-angle: 0.6
-
 ---
 
 Legendary filmmaker Hayao Miyazaki surprised absolutely no-one last night by admitting he would direct at least three more Studio Ghibli feature films.

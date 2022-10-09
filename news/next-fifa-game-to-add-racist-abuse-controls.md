@@ -1,13 +1,10 @@
 ---
-
 title: Next FIFA game to add racist abuse controls
 date: 2020-01-22
 description: The next installment of the FIFA Football video game franchise will include a variety of racist controls, EA confirmed today.
-angle: 0.9
-
 ---
 
-The next installment of the *FIFA Football* video game franchise will include a variety of racist controls, EA confirmed today.
+The next installment of the _FIFA Football_ video game franchise will include a variety of racist controls, EA confirmed today.
 
 In response to calls for the games to be more realistic, the studio has been hard at work adding a complex system of prejudice and provocation. Working in a similar way to the diving mechanism, players will be able to shout 37 slurs in 12 languages.
 

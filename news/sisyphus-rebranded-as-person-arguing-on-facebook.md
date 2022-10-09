@@ -1,10 +1,7 @@
 ---
-
 title: Sisyphus rebranded as person arguing with relatives on Facebook
 date: 2020-07-24
 description: The mythical figure Sisyphus, best known for pushing a big rock up a hill for eternity, has been rebranded as a person arguing with insane relatives on Facebook.
-angle: 0.2
-
 ---
 
 The mythical figure Sisyphus, best known for pushing a big rock up a hill for eternity, has been rebranded as a person arguing with insane relatives on Facebook.
@@ -15,4 +12,4 @@ The Greek Ministry of Culture and Sports formally passed the change yesterday af
 
 Much of Sisyphus’s backstory is unchanged. He remains a hubristic trickster king of Ephyra, all that has changed is the punishment he received. Whereas before he rolled a huge boulder endlessly up a steep hill, now he is chained to a desktop computer trying to reason with aggressively ignorant relatives.
 
-Futile topics include 5G towers, holocaust denial, immigration policy, gender roles, lizard people, and the cultural significance of the TV show *Friends*.
+Futile topics include 5G towers, holocaust denial, immigration policy, gender roles, lizard people, and the cultural significance of the TV show _Friends_.

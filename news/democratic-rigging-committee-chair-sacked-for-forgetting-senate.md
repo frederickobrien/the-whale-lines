@@ -1,10 +1,7 @@
 ---
-
 title: Chair of Democratic Rigging Committee sacked for forgetting about the senate
 date: 2020-11-11T3:33:47.000Z
 description: DRC chair Clement Jones was fired today with immediate effect for neglecting to give Democrats control of the senate while rigging last week’s election.
-angle: 0.3
-
 ---
 
 DRC chair Clement Jones was fired today with immediate effect for neglecting to give Democrats control of the senate while rigging last week’s election.

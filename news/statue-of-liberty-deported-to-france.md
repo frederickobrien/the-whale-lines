@@ -1,14 +1,11 @@
 ---
-
 title: Statue of Liberty deported to France
 date: 2020-03-09
 description: The Trump administration continued its crackdown on undocumented immigrants yesterday by shipping the Statue of Liberty back to France.
-angle: -0.9
 image: /images/story-images/statue-of-liberty-deported.png
 imageAlt: The Statue of Liberty
 imageCaption: The statue in a detention centre
 imageSocial: /images/social-images/statue-of-liberty-deported.png
-
 ---
 
 The Trump administration continued its crackdown on undocumented immigrants yesterday by shipping the Statue of Liberty back to France.

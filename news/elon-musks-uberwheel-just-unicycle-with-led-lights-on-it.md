@@ -1,10 +1,7 @@
 ---
-
 title: Closer inspection of Elon Musk’s new ‘Uberwheel’ shows it’s just a unicycle with LED lights on it
 date: 2020-08-21
 description: Elon Musk is under fire after his supposedly ‘revolutionary’ new product was exposed as a centuries-old idea with light blue LED lights glued on.
-angle: 0.4
-
 ---
 
 Elon Musk is under fire after his supposedly ‘revolutionary’ new product was exposed as a centuries-old idea with light blue LED lights glued on.

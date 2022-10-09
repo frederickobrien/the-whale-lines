@@ -1,10 +1,7 @@
 ---
-
 title: Brilliant, enigmatic young detective fails to solve murder
 date: 2020-11-18T19:57:47.000Z
 description: The Midlandtown Police Force was left rather deflated today after it became clear their star investigator was stumped by his most recent case.
-angle: 0.2
-
 ---
 
 The Midlandtown Police Force was left rather deflated today after it became clear their star investigator was stumped by his most recent case.

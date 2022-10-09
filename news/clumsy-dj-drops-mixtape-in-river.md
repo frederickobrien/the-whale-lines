@@ -1,10 +1,7 @@
 ---
-
 title: Clumsy DJ drops mixtape in river
 date: 2020-05-06
 description: Aspiring Michigan DJ Leonard Fleming was mortified yesterday after dropping a shit hot mixtape in the Detroit River by mistake.
-angle: 0.4
-
 ---
 
 Aspiring Michigan DJ Leonard Fleming was mortified yesterday after dropping a shit hot mixtape in the Detroit River by mistake.

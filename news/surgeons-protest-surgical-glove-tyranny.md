@@ -1,10 +1,7 @@
 ---
-
 title: Surgeons protest ‘tyranny’ of surgical gloves
 date: 2020-09-09
 description: The world’s leading surgeons have revolted against the expectation that they wear surgical gloves during operations, calling them ‘instruments of a deep state plot.’
-angle: -0.3
-
 ---
 
 The world’s leading surgeons have revolted against the expectation that they wear surgical gloves during operations, calling them ‘instruments of a deep state plot.’

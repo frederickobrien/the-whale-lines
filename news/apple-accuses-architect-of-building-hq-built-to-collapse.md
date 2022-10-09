@@ -1,10 +1,7 @@
 ---
-
 title: Apple accuses architect of designing HQ ‘built to collapse’
 date: 2019-11-13
 description: Apple is preparing to file a huge lawsuit against its contractor on Monday, accusing the firm of designing offices with ‘planned collapsibility.’
-angle: -0.1
-
 ---
 
 Apple is preparing to file a huge lawsuit against its contractor on Monday, accusing the firm of designing offices with ‘planned collapsibility.’

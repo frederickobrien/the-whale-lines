@@ -1,10 +1,7 @@
 ---
-
 title: Mosquito rights activists firebomb Raid factory
 date: 2020-02-21
 description: A mosquito rights group was behind last week’s industrial estate explosion in Bristol, police have confirmed. The attack killed 13 and hospitalised 57 more.
-angle: -0.9
-
 ---
 
 A mosquito rights group was behind last week’s industrial estate explosion in Bristol, police have confirmed. The attack killed 13 and hospitalised 57 more.

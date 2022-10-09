@@ -1,10 +1,7 @@
 ---
-
 title: Shock, dismay as [ACTION] leads to [CONSEQUENCE]
 date: 2021-01-20T12:30:34.000Z
 description: Millions are reeling - positively reeling - as [CONSEQUENCE] began to make itself felt following [ACTION].
-angle: -0.3
-
 ---
 
 Millions are reeling - positively reeling - after **[CONSEQUENCE]** began to make itself felt following **[ACTION]**.

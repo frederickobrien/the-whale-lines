@@ -1,10 +1,7 @@
 ---
-
 title: UN recognises PowerPoint presentations as torture
 date: 2020-09-24
 description: Long, boring, corporate jargon-filled PowerPoint presentations are at long last a recognised form of torture, the United Nations announced today.
-angle: -0.7
-
 ---
 
 Long, boring, corporate jargon-filled PowerPoint presentations are at long last a recognised form of torture, the United Nations announced today.

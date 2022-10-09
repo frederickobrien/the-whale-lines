@@ -1,9 +1,6 @@
 ---
-
 title: Dear Edna
 date: 2020-08-07
-angle: 1.77
-
 ---
 
 Dearest Edna,

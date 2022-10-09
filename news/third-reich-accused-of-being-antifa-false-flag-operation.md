@@ -1,10 +1,7 @@
 ---
-
 title: Third Reich accused of being antifa false flag operation
 date: 2021-01-11T08:30:34.000Z
 description: Suspicions are growing that Nazi Germany, the totalitarian regime responsible for the deaths of tens of millions of people, was actually an antifa false flag operation.
-angle: 1.4
-
 ---
 
 Suspicions are growing that Nazi Germany, the totalitarian regime responsible for the deaths of tens of millions of people, was actually an antifa false flag operation.
