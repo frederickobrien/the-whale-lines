@@ -6,30 +6,20 @@ title: Archive
 
 ---
 
-  <div class="news-archive-container">
-
-    {%- for post in collections.news | reverse -%}
-
-      <a href="{{ post.url }}">
-        <div class="news-story-archive" style="transform: rotate({{ post.data.angle }}deg);">
-
-          <div class="archive-content">
-
-            <h4>
-              {{ post.data.title }}
-            </h4>
-
-            <p class="archive-blurb">{{ post.data.description }} [...]</p>
-
-            <p class="archive-date">
-              <date>{{ post.date.toDateString() }}</date>
-            </p>
-
-          </div>
-
+<div class="news-archive-container">
+  {%- for post in collections.news | reverse -%}
+    <a href="{{ post.url }}">
+      <div class="news-story-archive" style="transform: rotate({{ range(-2, 2) | random }}deg);">
+        <div class="archive-content">
+          <h4>
+            {{ post.data.title }}
+          </h4>
+          <p class="archive-blurb">{{ post.data.description }} [...]</p>
+          <p class="archive-date">
+            <date>{{ post.date.toDateString() }}</date>
+          </p>
         </div>
-      </a>
-
-    {%- endfor -%}
-
-  </div>
+      </div>
+    </a>
+  {%- endfor -%}
+</div>
