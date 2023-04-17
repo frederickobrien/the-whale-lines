@@ -1,7 +1,7 @@
 ---
 title: Tyson Fury beats giant can of chopped tomatoes on points
 date: 2023-04-16
-description: George Orwell’s books and other writings are being rereleased without language and content deemed offensive by its publisher.
+description: Heavyweight champion Tyson Fury retained his WBC belt last night with a professional display against a seven-foot tall can of finely chopped Italian tomatoes.
 image: /images/story-images/tyson-fury-tomato-can.png
 imageAlt: Tyson Fury throws a punch at a giant can of chopped tomatoes
 imageCaption: Fury landed 134 punches over 12 rounds
