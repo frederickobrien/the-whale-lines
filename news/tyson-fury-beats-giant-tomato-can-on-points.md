@@ -5,7 +5,7 @@ description: Heavyweight champion Tyson Fury retained his WBC belt last night wi
 image: /images/story-images/tyson-fury-tomato-can.png
 imageAlt: Tyson Fury throws a punch at a giant can of chopped tomatoes
 imageCaption: Fury landed 134 punches over 12 rounds
-imageSocial: /images/story-images/tyson-fury-tomato-can.png
+imageSocial: /images/social-images/tyson-fury-tomato-can.png
 ---
 
 Heavyweight champion Tyson Fury retained his WBC belt last night with a professional display against a seven-foot tall can of finely chopped Italian tomatoes.
