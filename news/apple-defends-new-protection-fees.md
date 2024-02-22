@@ -12,4 +12,4 @@ The changes to the 34,000-word contract were rolled out last night, with app mak
 
 Other acts of retribution protected in the new policy are arson, forcible removal of major organs, and seven especially horrible types of biochemical warfare.
 
-When asked how such changes could even exist in the face of UN legislation intended to level the playing field, consumer rights expert Paul Sap simply shrugged and walked off. 
+When asked how such changes could even exist in the face of EU legislation intended to level the playing field, consumer rights expert Paul Sap simply shrugged and walked off. 
