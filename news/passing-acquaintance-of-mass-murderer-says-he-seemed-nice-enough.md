@@ -14,4 +14,4 @@ Vance was last year sentenced to life without parole after terrorising the Ameri
 
 “It’s just heartbreaking,” Combs went on, with no sense of irony whatsoever. “The guy had a wife, kids, and now they don’t get to see him any more. A family torn apart, lives ruined.”
 
-Family members and loved ones were not approached for comment.
+Family members and loved ones of the victims were not approached for comment.
