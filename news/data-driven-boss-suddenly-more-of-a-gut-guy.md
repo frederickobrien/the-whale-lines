@@ -1,5 +1,5 @@
 ---
-title: 'Data-driven' boss suddenly more of a 'gut' guy after data shows him to be wrong about almost everything
+title: "'Data-driven' boss suddenly more of a 'gut' guy after data shows him to be wrong about almost everything"
 date: 2024-09-23
 description: Inspiring leader and forward thinker Kelsey Monroe of Gizmify Inc made a swift switch to 'trusting instincts' earlier today after hard data showed his most deeply held convictions to be objectively wrong.
 ---
